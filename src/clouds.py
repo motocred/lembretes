@@ -18,7 +18,7 @@ def choose_audio_link(
     sex: Literal["M", "F"]
 ) -> str | dict[str, str]: # pyright: ignore
     sex_char = sex.lower()
-    url_prefix = f"https://github.com/synthbe/motocred/raw/refs/heads/main/vendas/audios/{sex_char}" # Same for all
+    url_prefix = f"https://github.com/motocred/lembretes/raw/refs/heads/main/vendas/audios/{sex_char}" # Same for all
 
     if link_type == "pos":
         audio_index = random.randint(1, 3)
