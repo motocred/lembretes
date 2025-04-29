@@ -23,14 +23,15 @@ def format_df(df_raw: pd.DataFrame, expected_cols: list[str]) -> pd.DataFrame:
 
 def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
     customer_list = list()
-    df_sellings = dfs["sellings"]
+    df_wallet = dfs["wallet"]
     df_parcs = dfs["parcs"]
     df_info_op = dfs["info_op"]
 
-    for line in range(len(df_sellings)):
+    for line in range(len(df_wallet)):
         try:
-            sell_code = cu.get_sell_code_by_line(df_sellings, line)
-            sell_date = cu.get_sell_date_by_line(df_sellings, line)
+            sell_code = cu.get_sell_code_by_line(df_wallet, line)
+            sell_date = cu.get_sell_date_by_line(df_wallet, line)
+            name = cu.get_name_by_line(df_wallet, line)
             next_venc = cu.get_next_venc_by_sell_code(df_parcs, sell_code)
 
             if next_venc is None: # Case when customer already quited
@@ -40,7 +41,6 @@ def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_dat
             if (TODAYS_DATE - next_venc).days != 10:
                 continue
 
-            name = cu.get_name_by_code(df_sellings, sell_code)
             sex = cu.get_sex_by_name(df_info_op, name)
             raw_phone = cu.get_phone_by_name(df_info_op, name)
             phone = cu.format_phone(raw_phone)
@@ -60,24 +60,24 @@ def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_dat
 
 def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
     customer_list = list()
-    df_sellings = dfs["sellings"]
+    df_wallet = dfs["wallet"]
     df_parcs = dfs["parcs"]
     df_info_op = dfs["info_op"]
 
-    for line in range(len(df_sellings)):
+    for line in range(len(df_wallet)):
         try:
-            sell_code = cu.get_sell_code_by_line(df_sellings, line)
-            sell_date = cu.get_sell_date_by_line(df_sellings, line)
+            sell_code = cu.get_sell_code_by_line(df_wallet, line)
+            sell_date = cu.get_sell_date_by_line(df_wallet, line)
+            name = cu.get_name_by_line(df_wallet, line)
             next_venc = cu.get_next_venc_by_sell_code(df_parcs, sell_code)
 
             if next_venc is None: # Case when customer already quited
                 continue
             if ((next_venc - sell_date).days // 30) <= 3: # Belongs to newers
                 continue
-            if (TODAYS_DATE - next_venc).days not in [0, 1]:
+            if (TODAYS_DATE - next_venc).days != 1:
                 continue
 
-            name = cu.get_name_by_code(df_sellings, sell_code)
             sex = cu.get_sex_by_name(df_info_op, name)
             raw_phone = cu.get_phone_by_name(df_info_op, name)
             phone = cu.format_phone(raw_phone)
@@ -104,18 +104,18 @@ def seperate_customers_atras(dfs: dict[str, pd.DataFrame], errors_list: list[dic
 
 def separete_customers_pos_sell(dfs: dict[str, pd.DataFrame], errors_list: list[dict[str, str]]) -> list[dict[str, str]]:
     customers_list = list()
-    df_sellings = dfs["sellings"]
+    df_wallet = dfs["wallet"]
     df_info_op = dfs["info_op"]
 
-    for line in range(len(df_sellings)):
+    for line in range(len(df_wallet)):
         try:
-            sell_code = cu.get_sell_code_by_line(df_sellings, line)
-            sell_date = cu.get_sell_date_by_line(df_sellings, line)
+            sell_code = cu.get_sell_code_by_line(df_wallet, line)
+            sell_date = cu.get_sell_date_by_line(df_wallet, line)
+            name = cu.get_name_by_line(df_wallet, line)
 
             if (TODAYS_DATE - sell_date).days != 3:
                 continue
 
-            name = cu.get_name_by_code(df_sellings, sell_code)
             sex = cu.get_sex_by_name(df_info_op, name)
             raw_phone = cu.get_phone_by_name(df_info_op, name)
             phone = cu.format_phone(raw_phone)

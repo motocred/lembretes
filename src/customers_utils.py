@@ -5,15 +5,24 @@ import pandas as pd
 
 from errors import PhoneFormatError
 
-def get_sell_code_by_line(df_sellings: pd.DataFrame, line: int) -> str:
-    sell_code = str(df_sellings["COD_VENDA"][line])
+def get_sell_code_by_line(df_wallet: pd.DataFrame, line: int) -> str:
+    sell_code = df_wallet.at[line, "Operação BMP"]
     if pd.isna(sell_code):
         raise ValueError("No sell code value")
-    return sell_code
+    try:
+        return str(int(float(sell_code)))
+    except (ValueError, TypeError):
+        raise ValueError(f"Invalid sell code: {sell_code}")
 
-def get_sell_date_by_line(df_sellings: pd.DataFrame, line: int) -> dt.date:
-    ts = pd.to_datetime(df_sellings.at[line, "DATA_REF"])
+def get_sell_date_by_line(df_wallet: pd.DataFrame, line: int) -> dt.date:
+    ts = pd.to_datetime(df_wallet.at[line, "Data"], dayfirst=True)
     return ts.date()
+
+def get_name_by_line(df_wallet: pd.DataFrame, line: int) -> str:
+    name = str(df_wallet["Cliente"][line])
+    if pd.isna(name):
+        raise ValueError(f"No name value")
+    return name.upper().strip()
 
 def get_name_by_code(df_sellings: pd.DataFrame, sell_code: str) -> str:
     name = df_sellings.loc[df_sellings["COD_VENDA"] == sell_code, "NOM_CLIENTE"].values[0]
@@ -48,17 +57,25 @@ def get_sex_by_name(df_info_op: pd.DataFrame, name: str) -> str:
         return "M"
     return "M"  # fallback padrão
 
+
 def get_next_venc_by_sell_code(df_parcs: pd.DataFrame, sell_code: str) -> dt.date | None:
-    df_parcs_sell_code = df_parcs[df_parcs["COD_VENDA"] == sell_code]
+    sell_code = str(sell_code).strip()
+    df_parcs_sell_code = df_parcs[
+        df_parcs["COD_VENDA"].astype(str).str.strip() == sell_code
+    ]
+
     if df_parcs_sell_code.empty:
         raise ValueError(f"Sell code {sell_code} not found in Parcelas")
 
-    df_parcs_no_prazo = df_parcs_sell_code[df_parcs_sell_code["VERIF"].str.upper().str.strip() == "NO PRAZO"].copy()
+    df_parcs_no_prazo = df_parcs_sell_code[
+        df_parcs_sell_code["VERIF"].astype(str).str.upper().str.strip() == "NO PRAZO"
+    ].copy()
+
     if df_parcs_no_prazo.empty:
         return None
 
     df_parcs_no_prazo["DATA_PARC"] = pd.to_datetime(
-        df_parcs_no_prazo["DATA_PARC"].str.strip(),
+        df_parcs_no_prazo["DATA_PARC"].astype(str).str.strip(),
         format="%d/%m/%y",
         dayfirst=True,
         errors="coerce",
