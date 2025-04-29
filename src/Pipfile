@@ -13,6 +13,7 @@ pandas = "*"
 gspread = "*"
 gspread-dataframe = "*"
 google-cloud-storage = "*"
+pipreqs = "*"
 
 [dev-packages]
 
