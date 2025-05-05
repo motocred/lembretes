@@ -1,6 +1,5 @@
 import requests
 from requests.exceptions import RequestException
-import logging
 from typing import TypeAlias
 
 Payload: TypeAlias = dict[str, str | bool]
@@ -25,13 +24,10 @@ def _send_message(
 
     headers = {"Client-Token": token}
 
-    name = message_data['name']
-    logging.info(f"Sending message to {name}")
     try:
         response = requests.post(url_with_route, data=data, headers=headers, timeout=15)
         response.raise_for_status()
         assert response.status_code >= 200 and response.status_code < 300
-        logging.info(f"Success message to {name}")
     except RequestException as e:
         raise RequestException(f"Failed to send message to {data['phone']}: {str(e)}")
 

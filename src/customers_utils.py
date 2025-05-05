@@ -84,6 +84,32 @@ def get_next_venc_by_sell_code(df_parcs: pd.DataFrame, sell_code: str) -> dt.dat
     dates = df_parcs_no_prazo["DATA_PARC"].dropna()
     return dates.min().date() if not dates.empty else None
 
+def get_atras_venc_by_sell_code(df_parcs: pd.DataFrame, sell_code: str) -> dt.date | None:
+    sell_code = str(sell_code).strip()
+    df_parcs_sell_code = df_parcs[
+        df_parcs["COD_VENDA"].astype(str).str.strip() == sell_code
+    ]
+
+    if df_parcs_sell_code.empty:
+        raise ValueError(f"Sell code {sell_code} not found in Parcelas")
+
+    df_parcs_no_prazo = df_parcs_sell_code[
+        df_parcs_sell_code["VERIF"].astype(str).str.upper().str.strip() == "ATRASADO"
+    ].copy()
+
+    if df_parcs_no_prazo.empty:
+        return None
+
+    df_parcs_no_prazo["DATA_PARC"] = pd.to_datetime(
+        df_parcs_no_prazo["DATA_PARC"].astype(str).str.strip(),
+        format="%d/%m/%y",
+        dayfirst=True,
+        errors="coerce",
+    )
+
+    dates = df_parcs_no_prazo["DATA_PARC"].dropna()
+    return dates.min().date() if not dates.empty else None
+
 def format_phone(phone: str | None | float) -> str:
     if not isinstance(phone, str):
         raise PhoneFormatError(f"Invalid phone type: {phone}")

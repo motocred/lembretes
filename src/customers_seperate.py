@@ -38,7 +38,7 @@ def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_dat
                 continue
             if ((next_venc - sell_date).days // 30) > 3:
                 continue
-            if (TODAYS_DATE - next_venc).days != 10:
+            if (next_venc - TODAYS_DATE).days != 10:
                 continue
 
             sex = cu.get_sex_by_name(df_info_op, name)
@@ -75,7 +75,7 @@ def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list
                 continue
             if ((next_venc - sell_date).days // 30) <= 3: # Belongs to newers
                 continue
-            if (TODAYS_DATE - next_venc).days != 1:
+            if (next_venc - TODAYS_DATE).days != 1:
                 continue
 
             sex = cu.get_sex_by_name(df_info_op, name)
@@ -97,10 +97,36 @@ def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list
 
 def seperate_customers_atras(dfs: dict[str, pd.DataFrame], errors_list: list[dict[str, str]]) -> list[dict[str, str]]:
     customers_list = list()
-    df_atras = dfs["atras"]
+    df_wallet = dfs["wallet"]
+    df_parcs = dfs["parcs"]
     df_info_op = dfs["info_op"]
 
-    pass
+    for line in range(len(df_wallet)):
+        try:
+            sell_code = cu.get_sell_code_by_line(df_wallet, line)
+            name = cu.get_name_by_line(df_wallet, line)
+            atras_venc = cu.get_atras_venc_by_sell_code(df_parcs, sell_code)
+
+            if atras_venc is None:
+                continue
+            if (TODAYS_DATE - atras_venc).days > 2:
+                continue
+
+            sex = cu.get_sex_by_name(df_info_op, name)
+            raw_phone = cu.get_phone_by_name(df_info_op, name)
+            phone = cu.format_phone(raw_phone)
+
+            customer_data = cu.create_customer_data(sell_code, name, phone=phone, sex=sex, atras_venc=str(atras_venc), group="Atras")
+            customers_list.append(customer_data)
+        except Exception as e:
+            error_data = {
+                "Error": str(e),
+                "Type": "Pos",
+                "Line": str(line)
+            }
+            errors_list.append(error_data)
+
+    return customers_list
 
 def separete_customers_pos_sell(dfs: dict[str, pd.DataFrame], errors_list: list[dict[str, str]]) -> list[dict[str, str]]:
     customers_list = list()

@@ -42,9 +42,9 @@ def choose_message(
 
     if link_type == "reminders_newers":
         audio_index = random.randint(1, 3)
-        audio_link = f"{url_prefix}/reminders_newers/reminders_newers_{audio_index}"
+        audio_link = f"{url_prefix}/reminders_newers/reminders_newers_{audio_index}.m4a"
 
         return audio_link
 
     if link_type == "atras":
-        return ""
+        return "Lembre: Sua parcela da Motocred venceu! Você pode pagar pelo seguinte link: https://cobranca.altis.online/"
