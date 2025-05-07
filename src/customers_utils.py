@@ -114,25 +114,14 @@ def format_phone(phone: str | None | float) -> str:
     if not isinstance(phone, str):
         raise PhoneFormatError(f"Invalid phone type: {phone}")
 
-    digits = re.sub(r"\D", "", phone)
+    digits = re.sub(r'\D', '', phone)
+    if len(digits) < 8:
+        raise ValueError("Invalid number: less than 8 digits")
 
-    if digits.startswith("55") and len(digits) == 13:
-        return digits  # Already valid: 55DD9XXXXXXXX
+    subscriber = digits[-8:]
+    dd = digits[-10:-8] if len(digits) >= 10 else '00'
 
-    if len(digits) == 9 and digits.startswith("9"):
-        # Just phone: 9XXXXXXXXX → assume DDD=84
-        # 5584991724324
-        return "5584" + digits
-
-    if len(digits) == 11 and digits[2] == "9":
-        # DD9XXXXXXXX → just add 55
-        return "55" + digits
-
-    if len(digits) == 13 and not digits.startswith("55"):
-        # Something like 84991234567 but extra stuff before
-        return "55" + digits
-
-    raise PhoneFormatError(f"Invalid phone format: {phone}")
+    return f'55{dd}9{subscriber}'
 
 def create_customer_data(
         sell_code: str,
