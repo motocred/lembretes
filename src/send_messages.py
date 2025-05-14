@@ -30,6 +30,12 @@ def send_reminders_newers(url: str, token: str, customer_data: su.Payload, audio
     payload_data["audio"] = audio_data
     su.send_audio(url, token, payload_data)
 
+def send_reminders_today(url: str, token: str, customer_data: su.Payload, text_data: str) -> None:
+    payload_data = dict()
+    payload_data.update(customer_data)
+    payload_data["message"] = text_data
+    su.send_text(url, token, payload_data)
+
 def send_atras(url: str, token: str, customer_data: su.Payload, text_data: str) -> None:
     payload_data = dict()
     payload_data.update(customer_data)

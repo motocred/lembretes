@@ -9,8 +9,8 @@ from flask import Request, Response, jsonify
 import pandas as pd
 
 from clouds import choose_message, read_sheet
-from send_messages import send_pos, send_reminders, send_reminders_newers, send_atras
-from customers_seperate import format_df, seperate_customers_reminders, seperate_customers_atras, separete_customers_pos_sell, seperate_customers_reminders_newers
+from send_messages import send_pos, send_reminders, send_reminders_newers, send_atras, send_reminders_today
+from customers_seperate import format_df, seperate_customers_reminders, seperate_customers_atras, separete_customers_pos_sell, seperate_customers_reminders_newers, seperate_customers_reminders_today
 
 load_dotenv()
 
@@ -34,16 +34,16 @@ def main(request: Request) -> tuple[Response, int]:
         if not SHEET_URL:
             raise ValueError("Sheet url could not be loaded")
 
-        # credentials, _ = default()
-        # wallet_df = read_sheet(credentials, SHEET_URL, "CARTEIRA")
-        # parcs_df = read_sheet(credentials, SHEET_URL, "PARCELAS")
-        # info_op_df = read_sheet(credentials, SHEET_URL, "INFO OPERACIONAL")
+        credentials, _ = default()
+        wallet_df = read_sheet(credentials, SHEET_URL, "CARTEIRA")
+        parcs_df = read_sheet(credentials, SHEET_URL, "PARCELAS")
+        info_op_df = read_sheet(credentials, SHEET_URL, "INFO OPERACIONAL")
 
         # """
         # For local test:
-        wallet_df = pd.read_csv('../static/Carteira Motocred atualizada - CARTEIRA.csv')
-        parcs_df = pd.read_csv('../static/Carteira Motocred atualizada - PARCELAS.csv')
-        info_op_df = pd.read_csv('../static/Carteira Motocred atualizada - INFO OPERACIONAL.csv')
+        # wallet_df = pd.read_csv('../static/Carteira Motocred atualizada - CARTEIRA.csv')
+        # parcs_df = pd.read_csv('../static/Carteira Motocred atualizada - PARCELAS.csv')
+        # info_op_df = pd.read_csv('../static/Carteira Motocred atualizada - INFO OPERACIONAL.csv')
         # """
 
         # TELEFONE column from info_op might come as float
@@ -63,6 +63,7 @@ def main(request: Request) -> tuple[Response, int]:
             "pos": send_pos,
             "reminders": send_reminders,
             "reminders_newers": send_reminders_newers,
+            "reminders_today": send_reminders_today,
             "atras": send_atras
         }
 
@@ -71,6 +72,7 @@ def main(request: Request) -> tuple[Response, int]:
         customers_reminders = seperate_customers_reminders(DFS, customers_erro)
         customers_reminders_newer = seperate_customers_reminders_newers(DFS, customers_erro)
         customers_atras = seperate_customers_atras(DFS, customers_erro)
+        customers_reminders_today = seperate_customers_reminders_today(DFS, customers_erro)
 
         if not API_URL or not CLIENT_TOKEN:
             raise ValueError("Either api url or client token was not loaded")
@@ -79,17 +81,18 @@ def main(request: Request) -> tuple[Response, int]:
             (customers_pos, "pos"),
             (customers_reminders, "reminders"),
             (customers_reminders_newer, "reminders_newers"),
-            (customers_atras, "atras")
+            (customers_atras, "atras"),
+            (customers_reminders_today, "reminders_today")
         ]:
             logging.info(f"{len(group)} customers of type {message_type}")
             for customer in group:
                 customer_data = {
-                    # "phone": customer["phone"],
-                    "phone": TEST_PHONE
+                    "phone": customer["phone"],
+                    # "phone": TEST_PHONE
                 }
                 message_data = choose_message(message_type, customer["sex"]) # pyright: ignore
 
-                logging.info(f"Sending message to {customer['name']} of type {message_type}")
+                logging.info(f"Sending message to {customer['name']} number {customer['phone']} of type {message_type}")
                 SENDERS[message_type](API_URL, CLIENT_TOKEN, customer_data, message_data)
                 logging.info(f"Success in sending message to {customer['name']}")
 

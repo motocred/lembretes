@@ -14,6 +14,7 @@ gspread = "*"
 gspread-dataframe = "*"
 google-cloud-storage = "*"
 pipreqs = "*"
+pyautogui = "*"
 
 [dev-packages]
 

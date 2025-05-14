@@ -14,7 +14,7 @@ def read_sheet(credentials: Any, sheet_url: str, page: str) -> pd.DataFrame:
     return df
 
 def choose_message(
-    link_type: Literal["pos", "reminders", "reminders_newers", "atras"],
+    link_type: Literal["pos", "reminders", "reminders_today", "reminders_newers", "atras"],
     sex: Literal["M", "F"]="M",
 ) -> str | dict[str, str]: # pyright: ignore
     """
@@ -23,6 +23,9 @@ def choose_message(
 
     if link_type == "reminders":
         return "Lembrete: Sua parcela da Motocred vence amanhã!" # Perguntar a André
+
+    if link_type == "reminders_today":
+        return "Bom dia! A Motocred informa que sua parcela vence hoje. Você pode pagar pelo seguinte link: https://cobranca.altis.online/"
 
     sex_char = sex.lower()
     url_prefix = f"https://github.com/motocred/lembretes/raw/refs/heads/main/audios/{sex_char}" # Same for all

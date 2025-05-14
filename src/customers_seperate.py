@@ -51,12 +51,50 @@ def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_dat
         except Exception as e:
             error_data = {
                 "Error": str(e),
-                "Type": "Reminder Newer",
+                "Type": "Reminder/Atras",
                 "Line": str(line)
             }
             errors_data.append(error_data)
 
     return customer_list
+
+def seperate_customers_reminders_today(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
+    customer_list = list()
+    df_wallet = dfs["wallet"]
+    df_parcs = dfs["parcs"]
+    df_info_op = dfs["info_op"]
+
+    for line in range(len(df_wallet)):
+        try:
+            sell_code = cu.get_sell_code_by_line(df_wallet, line)
+            sell_date = cu.get_sell_date_by_line(df_wallet, line)
+            name = cu.get_name_by_line(df_wallet, line)
+            next_venc = cu.get_next_venc_by_sell_code(df_parcs, sell_code)
+
+            if next_venc is None: # Case when customer already quited
+                continue
+            if ((next_venc - sell_date).days // 30) <= 3: # Belongs to newers
+                continue
+            if (next_venc - TODAYS_DATE).days != 0:
+                continue
+
+            sex = cu.get_sex_by_name(df_info_op, name)
+            raw_phone = cu.get_phone_by_name(df_info_op, name)
+            phone = cu.format_phone(raw_phone)
+
+            customer_data = cu.create_customer_data(sell_code, name, phone, sex, next_venc=str(next_venc), group="Reminder_today")
+            customer_list.append(customer_data)
+
+        except Exception as e:
+            error_data = {
+                "Error": str(e),
+                "Type": "Reminder/Atras",
+                "Line": str(line)
+            }
+            errors_data.append(error_data)
+
+    return customer_list
+
 
 def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
     customer_list = list()
@@ -88,7 +126,7 @@ def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list
         except Exception as e:
             error_data = {
                 "Error": str(e),
-                "Type": "Reminder",
+                "Type": "Reminder/Atras",
                 "Line": str(line)
             }
             errors_data.append(error_data)
@@ -121,7 +159,7 @@ def seperate_customers_atras(dfs: dict[str, pd.DataFrame], errors_list: list[dic
         except Exception as e:
             error_data = {
                 "Error": str(e),
-                "Type": "Pos",
+                "Type": "Reminder/Atras",
                 "Line": str(line)
             }
             errors_list.append(error_data)

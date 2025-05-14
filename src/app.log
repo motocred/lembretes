@@ -1,0 +1,1762 @@
+2025-04-24 14:52:10,399 [WARNING]  * Debugger is active!
+2025-04-24 14:52:10,399 [INFO]  * Debugger PIN: 143-820-412
+2025-04-24 14:52:20,584 [INFO] 127.0.0.1 - - [24/Apr/2025 14:52:20] "POST / HTTP/1.1" 200 -
+2025-04-24 14:54:10,641 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:54:10,642 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:54:10,643 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:54:10,644 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:54:10,645 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:54:12,017 [WARNING]  * Debugger is active!
+2025-04-24 14:54:12,017 [INFO]  * Debugger PIN: 143-820-412
+2025-04-24 14:55:03,902 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:03,902 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:03,903 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:03,904 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:03,904 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:04,974 [WARNING]  * Debugger is active!
+2025-04-24 14:55:04,975 [INFO]  * Debugger PIN: 143-820-412
+2025-04-24 14:55:10,527 [INFO] 3, 1, 0
+2025-04-24 14:55:10,527 [INFO] KARLA FABIANA BONIFACIO OLIVEIRA, pos
+2025-04-24 14:55:11,304 [INFO] SAIONARA VIANA DE MEDEIROS, pos
+2025-04-24 14:55:12,085 [INFO] LUCIELDER FERREIRA DA SILVA, pos
+2025-04-24 14:55:12,896 [INFO] JOSE HENRIQUE DE MORAIS OLIVEIRA, reminders
+2025-04-24 14:55:13,089 [INFO] 127.0.0.1 - - [24/Apr/2025 14:55:13] "POST / HTTP/1.1" 200 -
+2025-04-24 14:55:42,389 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:42,391 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:42,391 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:42,392 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:42,392 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:55:43,786 [WARNING]  * Debugger is active!
+2025-04-24 14:55:43,787 [INFO]  * Debugger PIN: 143-820-412
+2025-04-24 14:56:10,197 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:56:10,198 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:56:10,198 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:56:10,199 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:56:10,200 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-24 14:56:11,549 [WARNING]  * Debugger is active!
+2025-04-24 14:56:11,549 [INFO]  * Debugger PIN: 143-820-412
+2025-04-25 14:02:07,646 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-04-25 14:02:07,647 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-25 14:02:07,652 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 14:02:08,050 [WARNING]  * Debugger is active!
+2025-04-25 14:02:08,051 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 14:02:24,023 [INFO] 0, 0, 0
+2025-04-25 14:02:24,023 [INFO] 127.0.0.1 - - [25/Apr/2025 14:02:24] "POST / HTTP/1.1" 200 -
+2025-04-25 17:14:56,772 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-04-25 17:14:56,772 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-25 17:14:56,775 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:14:57,198 [WARNING]  * Debugger is active!
+2025-04-25 17:14:57,198 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:15:56,959 [INFO] 127.0.0.1 - - [25/Apr/2025 17:15:56] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-25 17:16:19,646 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:16:19,647 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:16:19,648 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:16:19,648 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:16:19,649 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:16:19,934 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:16:20,427 [WARNING]  * Debugger is active!
+2025-04-25 17:16:20,427 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:16:21,092 [INFO] 0, 0, 0
+2025-04-25 17:16:21,093 [INFO] 127.0.0.1 - - [25/Apr/2025 17:16:21] "POST / HTTP/1.1" 200 -
+2025-04-25 17:17:48,403 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:17:48,403 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:17:48,404 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:17:48,405 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:17:48,405 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:17:49,248 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:17:49,638 [WARNING]  * Debugger is active!
+2025-04-25 17:17:49,638 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:17:49,745 [INFO] 0, 0, 0
+2025-04-25 17:17:49,746 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '0'}
+2025-04-25 17:17:49,746 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '1'}
+2025-04-25 17:17:49,746 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '2'}
+2025-04-25 17:17:49,746 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '3'}
+2025-04-25 17:17:49,746 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '4'}
+2025-04-25 17:17:49,747 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '5'}
+2025-04-25 17:17:49,747 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '6'}
+2025-04-25 17:17:49,747 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '7'}
+2025-04-25 17:17:49,747 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '8'}
+2025-04-25 17:17:49,747 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '9'}
+2025-04-25 17:17:49,748 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '10'}
+2025-04-25 17:17:49,748 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '11'}
+2025-04-25 17:17:49,748 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '12'}
+2025-04-25 17:17:49,749 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '13'}
+2025-04-25 17:17:49,749 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '14'}
+2025-04-25 17:17:49,749 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '15'}
+2025-04-25 17:17:49,749 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '16'}
+2025-04-25 17:17:49,749 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '17'}
+2025-04-25 17:17:49,749 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '18'}
+2025-04-25 17:17:49,750 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '19'}
+2025-04-25 17:17:49,750 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '20'}
+2025-04-25 17:17:49,750 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '21'}
+2025-04-25 17:17:49,750 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '22'}
+2025-04-25 17:17:49,750 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '23'}
+2025-04-25 17:17:49,750 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '24'}
+2025-04-25 17:17:49,751 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '25'}
+2025-04-25 17:17:49,751 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '26'}
+2025-04-25 17:17:49,751 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '27'}
+2025-04-25 17:17:49,751 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '28'}
+2025-04-25 17:17:49,751 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '29'}
+2025-04-25 17:17:49,751 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '30'}
+2025-04-25 17:17:49,752 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '31'}
+2025-04-25 17:17:49,752 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '32'}
+2025-04-25 17:17:49,752 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '33'}
+2025-04-25 17:17:49,753 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '34'}
+2025-04-25 17:17:49,753 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '35'}
+2025-04-25 17:17:49,753 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '36'}
+2025-04-25 17:17:49,753 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '37'}
+2025-04-25 17:17:49,753 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '38'}
+2025-04-25 17:17:49,753 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '39'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '40'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '41'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '42'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '43'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '44'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '45'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '46'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '47'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '48'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '49'}
+2025-04-25 17:17:49,754 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '50'}
+2025-04-25 17:17:49,755 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '51'}
+2025-04-25 17:17:49,755 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '52'}
+2025-04-25 17:17:49,755 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '53'}
+2025-04-25 17:17:49,755 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '54'}
+2025-04-25 17:17:49,755 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '55'}
+2025-04-25 17:17:49,756 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '56'}
+2025-04-25 17:17:49,756 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '57'}
+2025-04-25 17:17:49,756 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '58'}
+2025-04-25 17:17:49,757 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '59'}
+2025-04-25 17:17:49,757 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '60'}
+2025-04-25 17:17:49,757 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '61'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '62'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '63'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '64'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '65'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '66'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '67'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '68'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '69'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '70'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '71'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '72'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '73'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '74'}
+2025-04-25 17:17:49,758 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '75'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '76'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '77'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '78'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '79'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '80'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '81'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '82'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '83'}
+2025-04-25 17:17:49,759 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '84'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '85'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '86'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '87'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Pos', 'Line': '88'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '0'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '1'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '2'}
+2025-04-25 17:17:49,760 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '3'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '4'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '5'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '6'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '7'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '8'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '9'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '10'}
+2025-04-25 17:17:49,761 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '11'}
+2025-04-25 17:17:49,762 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '12'}
+2025-04-25 17:17:49,762 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '13'}
+2025-04-25 17:17:49,762 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '14'}
+2025-04-25 17:17:49,762 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '15'}
+2025-04-25 17:17:49,762 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '16'}
+2025-04-25 17:17:49,763 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '17'}
+2025-04-25 17:17:49,763 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '18'}
+2025-04-25 17:17:49,765 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '19'}
+2025-04-25 17:17:49,768 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '20'}
+2025-04-25 17:17:49,769 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '21'}
+2025-04-25 17:17:49,769 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '22'}
+2025-04-25 17:17:49,769 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '23'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '24'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '25'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '26'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '27'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '28'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '29'}
+2025-04-25 17:17:49,770 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '30'}
+2025-04-25 17:17:49,771 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '31'}
+2025-04-25 17:17:49,771 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '32'}
+2025-04-25 17:17:49,771 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '33'}
+2025-04-25 17:17:49,771 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '34'}
+2025-04-25 17:17:49,771 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '35'}
+2025-04-25 17:17:49,772 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '36'}
+2025-04-25 17:17:49,772 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '37'}
+2025-04-25 17:17:49,772 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '38'}
+2025-04-25 17:17:49,772 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '39'}
+2025-04-25 17:17:49,772 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '40'}
+2025-04-25 17:17:49,773 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '41'}
+2025-04-25 17:17:49,773 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '42'}
+2025-04-25 17:17:49,773 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '43'}
+2025-04-25 17:17:49,773 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '44'}
+2025-04-25 17:17:49,774 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '45'}
+2025-04-25 17:17:49,774 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '46'}
+2025-04-25 17:17:49,774 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '47'}
+2025-04-25 17:17:49,774 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '48'}
+2025-04-25 17:17:49,774 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '49'}
+2025-04-25 17:17:49,775 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '50'}
+2025-04-25 17:17:49,775 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '51'}
+2025-04-25 17:17:49,775 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '52'}
+2025-04-25 17:17:49,775 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '53'}
+2025-04-25 17:17:49,775 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '54'}
+2025-04-25 17:17:49,775 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '55'}
+2025-04-25 17:17:49,776 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '56'}
+2025-04-25 17:17:49,776 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '57'}
+2025-04-25 17:17:49,776 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '58'}
+2025-04-25 17:17:49,776 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '59'}
+2025-04-25 17:17:49,776 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '60'}
+2025-04-25 17:17:49,776 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '61'}
+2025-04-25 17:17:49,777 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '62'}
+2025-04-25 17:17:49,777 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '63'}
+2025-04-25 17:17:49,777 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '64'}
+2025-04-25 17:17:49,777 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '65'}
+2025-04-25 17:17:49,777 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '66'}
+2025-04-25 17:17:49,778 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '67'}
+2025-04-25 17:17:49,778 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '68'}
+2025-04-25 17:17:49,778 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '69'}
+2025-04-25 17:17:49,778 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '70'}
+2025-04-25 17:17:49,778 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '71'}
+2025-04-25 17:17:49,779 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '72'}
+2025-04-25 17:17:49,779 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '73'}
+2025-04-25 17:17:49,779 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '74'}
+2025-04-25 17:17:49,779 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '75'}
+2025-04-25 17:17:49,779 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '76'}
+2025-04-25 17:17:49,780 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '77'}
+2025-04-25 17:17:49,780 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '78'}
+2025-04-25 17:17:49,780 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '79'}
+2025-04-25 17:17:49,780 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '80'}
+2025-04-25 17:17:49,781 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '81'}
+2025-04-25 17:17:49,781 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '82'}
+2025-04-25 17:17:49,781 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '83'}
+2025-04-25 17:17:49,781 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '84'}
+2025-04-25 17:17:49,781 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '85'}
+2025-04-25 17:17:49,782 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '86'}
+2025-04-25 17:17:49,782 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '87'}
+2025-04-25 17:17:49,782 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder', 'Line': '88'}
+2025-04-25 17:17:49,782 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-25 17:17:49,783 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '13'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '14'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '15'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '16'}
+2025-04-25 17:17:49,784 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '17'}
+2025-04-25 17:17:49,785 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '18'}
+2025-04-25 17:17:49,785 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '19'}
+2025-04-25 17:17:49,785 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '20'}
+2025-04-25 17:17:49,785 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '21'}
+2025-04-25 17:17:49,785 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '22'}
+2025-04-25 17:17:49,786 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '23'}
+2025-04-25 17:17:49,786 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '24'}
+2025-04-25 17:17:49,786 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '25'}
+2025-04-25 17:17:49,786 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '26'}
+2025-04-25 17:17:49,786 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '27'}
+2025-04-25 17:17:49,786 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '28'}
+2025-04-25 17:17:49,787 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '29'}
+2025-04-25 17:17:49,787 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '30'}
+2025-04-25 17:17:49,787 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '31'}
+2025-04-25 17:17:49,787 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '32'}
+2025-04-25 17:17:49,787 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '33'}
+2025-04-25 17:17:49,787 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '34'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '35'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '36'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '37'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '38'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '39'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '40'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '41'}
+2025-04-25 17:17:49,788 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '42'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '43'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '44'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '45'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '46'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '47'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '48'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '49'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '50'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '51'}
+2025-04-25 17:17:49,789 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '52'}
+2025-04-25 17:17:49,790 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '53'}
+2025-04-25 17:17:49,790 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '54'}
+2025-04-25 17:17:49,790 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '55'}
+2025-04-25 17:17:49,790 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '56'}
+2025-04-25 17:17:49,790 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '57'}
+2025-04-25 17:17:49,790 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '58'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '59'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '60'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '61'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '62'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '63'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '64'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '65'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '66'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '67'}
+2025-04-25 17:17:49,791 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '68'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '69'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '70'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '71'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-25 17:17:49,792 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '79'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '80'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-25 17:17:49,793 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-25 17:17:49,794 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-25 17:17:49,794 [INFO] {'Error': "'Operação BPM'", 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-25 17:17:49,794 [INFO] 127.0.0.1 - - [25/Apr/2025 17:17:49] "POST / HTTP/1.1" 200 -
+2025-04-25 17:18:22,968 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:18:22,968 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:18:22,968 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:18:22,969 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:18:22,969 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:18:24,072 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:18:24,489 [WARNING]  * Debugger is active!
+2025-04-25 17:18:24,490 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:18:28,030 [INFO] 0, 0, 0
+2025-04-25 17:18:28,030 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '84'}
+2025-04-25 17:18:28,030 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-25 17:18:28,030 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-25 17:18:28,030 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-25 17:18:28,030 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-25 17:18:28,030 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-25 17:18:28,031 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-25 17:18:28,032 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-25 17:18:28,033 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-25 17:18:28,034 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-25 17:18:28,035 [INFO] 127.0.0.1 - - [25/Apr/2025 17:18:28] "POST / HTTP/1.1" 200 -
+2025-04-25 17:21:49,218 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:21:49,219 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:21:49,219 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:21:49,220 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:21:49,221 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:21:50,097 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:21:50,491 [WARNING]  * Debugger is active!
+2025-04-25 17:21:50,491 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:22:33,813 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:33,814 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:33,815 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:33,815 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:33,816 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:34,008 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:22:34,396 [WARNING]  * Debugger is active!
+2025-04-25 17:22:34,396 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:22:56,616 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:56,616 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:56,617 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:56,618 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:56,618 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:22:57,724 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:22:58,142 [WARNING]  * Debugger is active!
+2025-04-25 17:22:58,142 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:23:01,496 [INFO] 0, 0, 0
+2025-04-25 17:23:01,496 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '84'}
+2025-04-25 17:23:01,496 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-25 17:23:01,496 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-25 17:23:01,496 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-25 17:23:01,496 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-25 17:23:01,497 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-25 17:23:01,498 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-25 17:23:01,499 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-25 17:23:01,500 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-25 17:23:01,501 [INFO] 127.0.0.1 - - [25/Apr/2025 17:23:01] "POST / HTTP/1.1" 200 -
+2025-04-25 17:24:38,228 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-04-25 17:24:38,228 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-25 17:24:38,230 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:24:38,629 [WARNING]  * Debugger is active!
+2025-04-25 17:24:38,629 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '84'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-25 17:24:40,575 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-25 17:24:40,576 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-25 17:24:40,577 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-25 17:24:40,578 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-25 17:24:40,579 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-25 17:24:40,579 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-25 17:24:40,579 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-25 17:24:40,579 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-25 17:24:40,579 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-25 17:24:40,579 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-25 17:24:40,580 [INFO] 127.0.0.1 - - [25/Apr/2025 17:24:40] "POST / HTTP/1.1" 200 -
+2025-04-25 17:27:02,300 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:27:02,304 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:27:02,305 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:27:02,305 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:27:02,306 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-04-25 17:27:02,899 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:27:03,287 [WARNING]  * Debugger is active!
+2025-04-25 17:27:03,288 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '84'}
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-25 17:27:06,322 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-25 17:27:06,323 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-25 17:27:06,324 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-25 17:27:06,325 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-25 17:27:06,325 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-25 17:27:06,325 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-25 17:27:06,325 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-25 17:27:06,325 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-25 17:27:06,325 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-25 17:27:06,326 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-25 17:27:06,327 [INFO] 127.0.0.1 - - [25/Apr/2025 17:27:06] "POST / HTTP/1.1" 200 -
+2025-04-25 17:30:22,314 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:22,315 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:22,315 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:22,316 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:22,317 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:22,894 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:30:23,279 [WARNING]  * Debugger is active!
+2025-04-25 17:30:23,280 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:30:31,524 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:31,525 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:31,526 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:31,526 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:31,527 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:32,530 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:30:32,934 [WARNING]  * Debugger is active!
+2025-04-25 17:30:32,934 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:30:38,505 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:38,506 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:38,507 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:38,507 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:38,508 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-25 17:30:39,148 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:30:39,549 [WARNING]  * Debugger is active!
+2025-04-25 17:30:39,549 [INFO]  * Debugger PIN: 681-327-407
+2025-04-25 17:31:41,561 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:31:41,562 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:31:41,562 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:31:41,563 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:31:41,564 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-04-25 17:31:42,165 [INFO]  * Restarting with watchdog (inotify)
+2025-04-25 17:31:42,724 [WARNING]  * Debugger is active!
+2025-04-25 17:31:42,725 [INFO]  * Debugger PIN: 681-327-407
+2025-04-28 17:17:53,277 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-04-28 17:17:53,277 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-28 17:17:53,283 [INFO]  * Restarting with watchdog (inotify)
+2025-04-28 17:17:53,687 [WARNING]  * Debugger is active!
+2025-04-28 17:17:53,688 [INFO]  * Debugger PIN: 142-794-403
+2025-04-28 17:18:17,427 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '88'}
+2025-04-28 17:18:17,427 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '89'}
+2025-04-28 17:18:17,427 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-28 17:18:17,427 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-28 17:18:17,427 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder', 'Line': '72'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder', 'Line': '73'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder', 'Line': '74'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder', 'Line': '75'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder', 'Line': '76'}
+2025-04-28 17:18:17,428 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder', 'Line': '77'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder', 'Line': '79'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-28 17:18:17,429 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder', 'Line': '89'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder', 'Line': '90'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-28 17:18:17,430 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-28 17:18:17,431 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '79'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '89'}
+2025-04-28 17:18:17,432 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '90'}
+2025-04-28 17:18:17,433 [INFO] 127.0.0.1 - - [28/Apr/2025 17:18:17] "POST / HTTP/1.1" 200 -
+2025-04-28 21:09:52,278 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.5:8080
+2025-04-28 21:09:52,279 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-28 21:09:52,287 [INFO]  * Restarting with watchdog (inotify)
+2025-04-28 21:09:53,320 [WARNING]  * Debugger is active!
+2025-04-28 21:09:53,320 [INFO]  * Debugger PIN: 142-794-403
+2025-04-28 21:09:55,224 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '88'}
+2025-04-28 21:09:55,224 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '89'}
+2025-04-28 21:09:55,224 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-28 21:09:55,225 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-28 21:09:55,225 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder', 'Line': '72'}
+2025-04-28 21:09:55,226 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder', 'Line': '73'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder', 'Line': '74'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder', 'Line': '75'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder', 'Line': '76'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder', 'Line': '77'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder', 'Line': '79'}
+2025-04-28 21:09:55,227 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder', 'Line': '89'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder', 'Line': '90'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-28 21:09:55,228 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-28 21:09:55,229 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '79'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-28 21:09:55,230 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '89'}
+2025-04-28 21:09:55,231 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '90'}
+2025-04-28 21:09:55,232 [INFO] 127.0.0.1 - - [28/Apr/2025 21:09:55] "POST / HTTP/1.1" 200 -
+2025-04-29 13:47:29,349 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-04-29 13:47:29,350 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-29 13:47:29,363 [INFO]  * Restarting with watchdog (inotify)
+2025-04-29 13:47:30,342 [WARNING]  * Debugger is active!
+2025-04-29 13:47:30,343 [INFO]  * Debugger PIN: 125-895-067
+2025-04-29 13:47:42,915 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '90'}
+2025-04-29 13:47:42,916 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder', 'Line': '0'}
+2025-04-29 13:47:42,916 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder', 'Line': '1'}
+2025-04-29 13:47:42,916 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder', 'Line': '2'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder', 'Line': '3'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder', 'Line': '4'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder', 'Line': '5'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder', 'Line': '6'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder', 'Line': '7'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder', 'Line': '8'}
+2025-04-29 13:47:42,917 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder', 'Line': '9'}
+2025-04-29 13:47:42,918 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder', 'Line': '10'}
+2025-04-29 13:47:42,918 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder', 'Line': '11'}
+2025-04-29 13:47:42,919 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder', 'Line': '12'}
+2025-04-29 13:47:42,919 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder', 'Line': '72'}
+2025-04-29 13:47:42,920 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder', 'Line': '73'}
+2025-04-29 13:47:42,921 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder', 'Line': '74'}
+2025-04-29 13:47:42,923 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder', 'Line': '75'}
+2025-04-29 13:47:42,924 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder', 'Line': '76'}
+2025-04-29 13:47:42,924 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder', 'Line': '77'}
+2025-04-29 13:47:42,924 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-29 13:47:42,925 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder', 'Line': '79'}
+2025-04-29 13:47:42,925 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-04-29 13:47:42,932 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-04-29 13:47:42,932 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-04-29 13:47:42,932 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '83'}
+2025-04-29 13:47:42,932 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '84'}
+2025-04-29 13:47:42,932 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '85'}
+2025-04-29 13:47:42,932 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '86'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '87'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '88'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder', 'Line': '89'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder', 'Line': '90'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 53752015 not found in Parcelas', 'Type': 'Reminder', 'Line': '91'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 37482911 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 37612516 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 37621763 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 39299830 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 40527694 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-29 13:47:42,933 [INFO] {'Error': 'Sell code 40654315 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-29 13:47:42,934 [INFO] {'Error': 'Sell code 43202992 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-29 13:47:42,935 [INFO] {'Error': 'Sell code 43517585 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-29 13:47:42,935 [INFO] {'Error': 'Sell code 43892908 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-29 13:47:42,935 [INFO] {'Error': 'Sell code 43401605 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 43927093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 44166371 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 45464910 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-29 13:47:42,936 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-29 13:47:42,937 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-29 13:47:42,937 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-29 13:47:42,937 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '79'}
+2025-04-29 13:47:42,937 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-04-29 13:47:42,937 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-04-29 13:47:42,937 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-04-29 13:47:42,938 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '83'}
+2025-04-29 13:47:42,938 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '84'}
+2025-04-29 13:47:42,939 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '85'}
+2025-04-29 13:47:42,939 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '86'}
+2025-04-29 13:47:42,939 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '87'}
+2025-04-29 13:47:42,939 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '88'}
+2025-04-29 13:47:42,939 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '89'}
+2025-04-29 13:47:42,940 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '90'}
+2025-04-29 13:47:42,940 [INFO] {'Error': 'Sell code 53752015 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '91'}
+2025-04-29 13:47:42,942 [INFO] 127.0.0.1 - - [29/Apr/2025 13:47:42] "POST / HTTP/1.1" 200 -
+2025-04-29 14:08:38,786 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:08:38,786 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:08:38,787 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:08:38,788 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:08:38,788 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:08:39,998 [INFO]  * Restarting with watchdog (inotify)
+2025-04-29 14:08:40,953 [WARNING]  * Debugger is active!
+2025-04-29 14:08:40,954 [INFO]  * Debugger PIN: 125-895-067
+2025-04-29 14:09:06,205 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:09:06,206 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:09:06,207 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:09:06,207 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:09:06,208 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:09:06,595 [INFO]  * Restarting with watchdog (inotify)
+2025-04-29 14:09:07,569 [WARNING]  * Debugger is active!
+2025-04-29 14:09:07,570 [INFO]  * Debugger PIN: 125-895-067
+2025-04-29 14:10:06,534 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:10:06,535 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:10:06,535 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:10:06,536 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:10:06,536 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:10:07,416 [INFO]  * Restarting with watchdog (inotify)
+2025-04-29 14:10:08,388 [WARNING]  * Debugger is active!
+2025-04-29 14:10:08,389 [INFO]  * Debugger PIN: 125-895-067
+2025-04-29 14:12:47,569 [INFO] {'Error': '0', 'Type': 'Pos', 'Line': '0'}
+2025-04-29 14:12:47,569 [INFO] {'Error': '1', 'Type': 'Pos', 'Line': '1'}
+2025-04-29 14:12:47,570 [INFO] {'Error': '2', 'Type': 'Pos', 'Line': '2'}
+2025-04-29 14:12:47,570 [INFO] {'Error': '3', 'Type': 'Pos', 'Line': '3'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '4', 'Type': 'Pos', 'Line': '4'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '5', 'Type': 'Pos', 'Line': '5'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '6', 'Type': 'Pos', 'Line': '6'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '7', 'Type': 'Pos', 'Line': '7'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '8', 'Type': 'Pos', 'Line': '8'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '9', 'Type': 'Pos', 'Line': '9'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '10', 'Type': 'Pos', 'Line': '10'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '11', 'Type': 'Pos', 'Line': '11'}
+2025-04-29 14:12:47,571 [INFO] {'Error': '12', 'Type': 'Pos', 'Line': '12'}
+2025-04-29 14:12:47,572 [INFO] {'Error': '0', 'Type': 'Reminder', 'Line': '0'}
+2025-04-29 14:12:47,572 [INFO] {'Error': '1', 'Type': 'Reminder', 'Line': '1'}
+2025-04-29 14:12:47,572 [INFO] {'Error': '2', 'Type': 'Reminder', 'Line': '2'}
+2025-04-29 14:12:47,572 [INFO] {'Error': '3', 'Type': 'Reminder', 'Line': '3'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '4', 'Type': 'Reminder', 'Line': '4'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '5', 'Type': 'Reminder', 'Line': '5'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '6', 'Type': 'Reminder', 'Line': '6'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '7', 'Type': 'Reminder', 'Line': '7'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '8', 'Type': 'Reminder', 'Line': '8'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '9', 'Type': 'Reminder', 'Line': '9'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '10', 'Type': 'Reminder', 'Line': '10'}
+2025-04-29 14:12:47,573 [INFO] {'Error': '11', 'Type': 'Reminder', 'Line': '11'}
+2025-04-29 14:12:47,574 [INFO] {'Error': '12', 'Type': 'Reminder', 'Line': '12'}
+2025-04-29 14:12:47,574 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder', 'Line': '72'}
+2025-04-29 14:12:47,574 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder', 'Line': '73'}
+2025-04-29 14:12:47,574 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder', 'Line': '74'}
+2025-04-29 14:12:47,574 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder', 'Line': '75'}
+2025-04-29 14:12:47,574 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder', 'Line': '76'}
+2025-04-29 14:12:47,575 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder', 'Line': '77'}
+2025-04-29 14:12:47,575 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-29 14:12:47,575 [INFO] {'Error': '0', 'Type': 'Reminder Newer', 'Line': '0'}
+2025-04-29 14:12:47,575 [INFO] {'Error': '1', 'Type': 'Reminder Newer', 'Line': '1'}
+2025-04-29 14:12:47,575 [INFO] {'Error': '2', 'Type': 'Reminder Newer', 'Line': '2'}
+2025-04-29 14:12:47,575 [INFO] {'Error': '3', 'Type': 'Reminder Newer', 'Line': '3'}
+2025-04-29 14:12:47,576 [INFO] {'Error': '4', 'Type': 'Reminder Newer', 'Line': '4'}
+2025-04-29 14:12:47,576 [INFO] {'Error': '5', 'Type': 'Reminder Newer', 'Line': '5'}
+2025-04-29 14:12:47,576 [INFO] {'Error': '6', 'Type': 'Reminder Newer', 'Line': '6'}
+2025-04-29 14:12:47,576 [INFO] {'Error': '7', 'Type': 'Reminder Newer', 'Line': '7'}
+2025-04-29 14:12:47,576 [INFO] {'Error': '8', 'Type': 'Reminder Newer', 'Line': '8'}
+2025-04-29 14:12:47,576 [INFO] {'Error': '9', 'Type': 'Reminder Newer', 'Line': '9'}
+2025-04-29 14:12:47,577 [INFO] {'Error': '10', 'Type': 'Reminder Newer', 'Line': '10'}
+2025-04-29 14:12:47,577 [INFO] {'Error': '11', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-04-29 14:12:47,577 [INFO] {'Error': '12', 'Type': 'Reminder Newer', 'Line': '12'}
+2025-04-29 14:12:47,577 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-29 14:12:47,577 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-29 14:12:47,578 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-29 14:12:47,578 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-29 14:12:47,578 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-29 14:12:47,581 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-29 14:12:47,581 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-29 14:12:47,582 [INFO] 127.0.0.1 - - [29/Apr/2025 14:12:47] "POST / HTTP/1.1" 200 -
+2025-04-29 14:13:37,016 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:13:37,017 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:13:37,018 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:13:37,018 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:13:37,018 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-04-29 14:13:37,533 [INFO]  * Restarting with watchdog (inotify)
+2025-04-29 14:13:38,529 [WARNING]  * Debugger is active!
+2025-04-29 14:13:38,529 [INFO]  * Debugger PIN: 125-895-067
+2025-04-29 14:13:41,822 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '77'}
+2025-04-29 14:13:41,822 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder', 'Line': '59'}
+2025-04-29 14:13:41,822 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder', 'Line': '60'}
+2025-04-29 14:13:41,823 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder', 'Line': '61'}
+2025-04-29 14:13:41,823 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder', 'Line': '62'}
+2025-04-29 14:13:41,823 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder', 'Line': '63'}
+2025-04-29 14:13:41,823 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder', 'Line': '64'}
+2025-04-29 14:13:41,824 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-04-29 14:13:41,824 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder', 'Line': '66'}
+2025-04-29 14:13:41,824 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder', 'Line': '67'}
+2025-04-29 14:13:41,825 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '68'}
+2025-04-29 14:13:41,826 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '69'}
+2025-04-29 14:13:41,830 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '70'}
+2025-04-29 14:13:41,830 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '71'}
+2025-04-29 14:13:41,830 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '72'}
+2025-04-29 14:13:41,830 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '73'}
+2025-04-29 14:13:41,831 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '74'}
+2025-04-29 14:13:41,832 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '75'}
+2025-04-29 14:13:41,834 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder', 'Line': '76'}
+2025-04-29 14:13:41,834 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder', 'Line': '77'}
+2025-04-29 14:13:41,834 [INFO] {'Error': 'Sell code 53752015 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-29 14:13:41,835 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '59'}
+2025-04-29 14:13:41,835 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '60'}
+2025-04-29 14:13:41,835 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '61'}
+2025-04-29 14:13:41,835 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '62'}
+2025-04-29 14:13:41,835 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '63'}
+2025-04-29 14:13:41,836 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '64'}
+2025-04-29 14:13:41,836 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-04-29 14:13:41,836 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '66'}
+2025-04-29 14:13:41,836 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '67'}
+2025-04-29 14:13:41,836 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '68'}
+2025-04-29 14:13:41,836 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '69'}
+2025-04-29 14:13:41,837 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '70'}
+2025-04-29 14:13:41,837 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '71'}
+2025-04-29 14:13:41,837 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-29 14:13:41,837 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-29 14:13:41,837 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-29 14:13:41,837 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-29 14:13:41,838 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-29 14:13:41,838 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-29 14:13:41,838 [INFO] {'Error': 'Sell code 53752015 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-29 14:13:41,839 [INFO] 127.0.0.1 - - [29/Apr/2025 14:13:41] "POST / HTTP/1.1" 200 -
+2025-04-29 14:13:57,897 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-04-29 14:13:57,897 [INFO] [33mPress CTRL+C to quit[0m
+2025-04-29 14:13:57,904 [INFO]  * Restarting with watchdog (inotify)
+2025-04-29 14:13:58,880 [WARNING]  * Debugger is active!
+2025-04-29 14:13:58,880 [INFO]  * Debugger PIN: 125-895-067
+2025-04-29 14:14:01,395 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '77'}
+2025-04-29 14:14:01,395 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder', 'Line': '59'}
+2025-04-29 14:14:01,395 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder', 'Line': '60'}
+2025-04-29 14:14:01,396 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder', 'Line': '61'}
+2025-04-29 14:14:01,396 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder', 'Line': '62'}
+2025-04-29 14:14:01,396 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder', 'Line': '63'}
+2025-04-29 14:14:01,397 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder', 'Line': '64'}
+2025-04-29 14:14:01,397 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-04-29 14:14:01,397 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder', 'Line': '66'}
+2025-04-29 14:14:01,397 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder', 'Line': '67'}
+2025-04-29 14:14:01,397 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder', 'Line': '68'}
+2025-04-29 14:14:01,398 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder', 'Line': '69'}
+2025-04-29 14:14:01,399 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder', 'Line': '70'}
+2025-04-29 14:14:01,399 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder', 'Line': '71'}
+2025-04-29 14:14:01,400 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder', 'Line': '72'}
+2025-04-29 14:14:01,400 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder', 'Line': '73'}
+2025-04-29 14:14:01,400 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder', 'Line': '74'}
+2025-04-29 14:14:01,400 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder', 'Line': '75'}
+2025-04-29 14:14:01,401 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder', 'Line': '76'}
+2025-04-29 14:14:01,401 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder', 'Line': '77'}
+2025-04-29 14:14:01,401 [INFO] {'Error': 'Sell code 53752015 not found in Parcelas', 'Type': 'Reminder', 'Line': '78'}
+2025-04-29 14:14:01,402 [INFO] {'Error': 'Sell code 48972532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '59'}
+2025-04-29 14:14:01,403 [INFO] {'Error': 'Sell code 49562138 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '60'}
+2025-04-29 14:14:01,403 [INFO] {'Error': 'Sell code 50922380 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '61'}
+2025-04-29 14:14:01,403 [INFO] {'Error': 'Sell code 51725596 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '62'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 51890284 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '63'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 51972554 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '64'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 52263557 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '66'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 52464037 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '67'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 53028754 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '68'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 53069561 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '69'}
+2025-04-29 14:14:01,404 [INFO] {'Error': 'Sell code 53089396 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '70'}
+2025-04-29 14:14:01,405 [INFO] {'Error': 'Sell code 53341791 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '71'}
+2025-04-29 14:14:01,405 [INFO] {'Error': 'Sell code 53495697 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '72'}
+2025-04-29 14:14:01,405 [INFO] {'Error': 'Sell code 53497434 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '73'}
+2025-04-29 14:14:01,406 [INFO] {'Error': 'Sell code 53550160 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '74'}
+2025-04-29 14:14:01,406 [INFO] {'Error': 'Sell code 53596620 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '75'}
+2025-04-29 14:14:01,406 [INFO] {'Error': 'Sell code 53629166 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '76'}
+2025-04-29 14:14:01,407 [INFO] {'Error': 'Sell code 53654049 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '77'}
+2025-04-29 14:14:01,407 [INFO] {'Error': 'Sell code 53752015 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '78'}
+2025-04-29 14:14:01,408 [INFO] 127.0.0.1 - - [29/Apr/2025 14:14:01] "POST / HTTP/1.1" 200 -
+2025-05-05 13:38:31,932 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-05-05 13:38:31,932 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-05 13:38:31,938 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:38:32,354 [WARNING]  * Debugger is active!
+2025-05-05 13:38:32,355 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:39:13,058 [INFO] 127.0.0.1 - - [05/May/2025 13:39:13] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 13:39:47,439 [INFO] 127.0.0.1 - - [05/May/2025 13:39:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 13:41:05,337 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:05,337 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:05,337 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:05,339 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:05,339 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:06,112 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:41:06,521 [WARNING]  * Debugger is active!
+2025-05-05 13:41:06,521 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:41:11,363 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:11,363 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:11,363 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:11,364 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:11,365 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:41:11,713 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:41:12,122 [WARNING]  * Debugger is active!
+2025-05-05 13:41:12,122 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:42:50,087 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:42:50,087 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:42:50,087 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:42:50,088 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:42:50,088 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:42:50,672 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:42:51,215 [WARNING]  * Debugger is active!
+2025-05-05 13:42:51,215 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:43:25,144 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:43:25,144 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:43:25,145 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:43:25,146 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:43:25,146 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 13:43:25,487 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:43:25,923 [WARNING]  * Debugger is active!
+2025-05-05 13:43:25,923 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:43:57,926 [INFO] 0 customers of type pos
+2025-05-05 13:43:57,926 [INFO] 0 customers of type reminders
+2025-05-05 13:43:57,926 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:43:57,927 [INFO] 127.0.0.1 - - [05/May/2025 13:43:57] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 13:44:47,883 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:44:47,883 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:44:47,883 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:44:47,884 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:44:47,885 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:44:48,331 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:44:48,737 [WARNING]  * Debugger is active!
+2025-05-05 13:44:48,737 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:44:52,783 [INFO] 0 customers of type pos
+2025-05-05 13:44:52,783 [INFO] 0 customers of type reminders
+2025-05-05 13:44:52,783 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:44:52,783 [INFO] 0 customers of type atras
+2025-05-05 13:44:52,783 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 13:44:52,783 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 13:44:52,783 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 13:44:52,784 [INFO] 127.0.0.1 - - [05/May/2025 13:44:52] "POST / HTTP/1.1" 200 -
+2025-05-05 13:46:54,333 [INFO] 0 customers of type pos
+2025-05-05 13:46:54,333 [INFO] 0 customers of type reminders
+2025-05-05 13:46:54,335 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:46:54,335 [INFO] 0 customers of type atras
+2025-05-05 13:46:54,335 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 13:46:54,335 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 13:46:54,335 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 13:46:54,336 [INFO] 127.0.0.1 - - [05/May/2025 13:46:54] "POST / HTTP/1.1" 200 -
+2025-05-05 13:47:30,634 [INFO] 1 customers of type pos
+2025-05-05 13:47:30,635 [INFO] Sending message to LUCIVALDO TOMAZ DE OLIVEIRA of type pos
+2025-05-05 13:47:30,635 [INFO] 127.0.0.1 - - [05/May/2025 13:47:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 13:48:42,619 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 13:48:42,620 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 13:48:42,620 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 13:48:42,622 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 13:48:42,622 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 13:48:42,979 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:48:43,535 [WARNING]  * Debugger is active!
+2025-05-05 13:48:43,536 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:48:46,373 [INFO] 1 customers of type pos
+2025-05-05 13:48:46,373 [INFO] Sending message to LUCIVALDO TOMAZ DE OLIVEIRA of type pos
+2025-05-05 13:48:52,474 [INFO] Success in sending message to LUCIVALDO TOMAZ DE OLIVEIRA
+2025-05-05 13:48:52,474 [INFO] 0 customers of type reminders
+2025-05-05 13:48:52,474 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:48:52,475 [INFO] 0 customers of type atras
+2025-05-05 13:48:52,475 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:48:52,475 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 13:48:52,475 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 13:48:52,475 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 13:48:52,475 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 13:48:52,475 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:48:52,475 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 13:48:52,476 [INFO] 127.0.0.1 - - [05/May/2025 13:48:52] "POST / HTTP/1.1" 200 -
+2025-05-05 13:51:29,909 [INFO] 1 customers of type pos
+2025-05-05 13:51:29,909 [INFO] Sending message to LUCIVALDO TOMAZ DE OLIVEIRA of type pos
+2025-05-05 13:51:34,316 [INFO] Success in sending message to LUCIVALDO TOMAZ DE OLIVEIRA
+2025-05-05 13:51:34,316 [INFO] 0 customers of type reminders
+2025-05-05 13:51:34,316 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:51:34,316 [INFO] 0 customers of type atras
+2025-05-05 13:51:34,316 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:51:34,317 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 13:51:34,317 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 13:51:34,317 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 13:51:34,317 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 13:51:34,317 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:51:34,317 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 13:51:34,317 [INFO] 127.0.0.1 - - [05/May/2025 13:51:34] "POST / HTTP/1.1" 200 -
+2025-05-05 13:54:21,803 [INFO] 1 customers of type pos
+2025-05-05 13:54:21,803 [INFO] Sending message to LUCIVALDO TOMAZ DE OLIVEIRA of type pos
+2025-05-05 13:54:23,865 [INFO] Success in sending message to LUCIVALDO TOMAZ DE OLIVEIRA
+2025-05-05 13:54:23,865 [INFO] 0 customers of type reminders
+2025-05-05 13:54:23,865 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:54:23,865 [INFO] 0 customers of type atras
+2025-05-05 13:54:23,865 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:54:23,865 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 13:54:23,865 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 13:54:23,865 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 13:54:23,865 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 13:54:23,865 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:54:23,865 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 13:54:23,866 [INFO] 127.0.0.1 - - [05/May/2025 13:54:23] "POST / HTTP/1.1" 200 -
+2025-05-05 13:56:27,398 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:27,398 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:27,398 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:27,400 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:27,400 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:28,285 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:56:28,698 [WARNING]  * Debugger is active!
+2025-05-05 13:56:28,698 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:56:36,489 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:36,489 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:36,490 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:36,491 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:36,491 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:56:36,922 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:56:37,336 [WARNING]  * Debugger is active!
+2025-05-05 13:56:37,336 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 13:57:49,600 [INFO] 0 customers of type pos
+2025-05-05 13:57:49,600 [INFO] 0 customers of type reminders
+2025-05-05 13:57:49,600 [INFO] 0 customers of type reminders_newers
+2025-05-05 13:57:49,600 [INFO] 1 customers of type atras
+2025-05-05 13:57:49,601 [INFO] Sending message to HELIDA BEATRIZ CARLOS DA SILVA of type atras
+2025-05-05 13:57:49,822 [INFO] Success in sending message to HELIDA BEATRIZ CARLOS DA SILVA
+2025-05-05 13:57:49,823 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:57:49,823 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 13:57:49,823 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 13:57:49,823 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 13:57:49,823 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 13:57:49,823 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 13:57:49,823 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 13:57:49,824 [INFO] 127.0.0.1 - - [05/May/2025 13:57:49] "POST / HTTP/1.1" 200 -
+2025-05-05 13:59:51,200 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:59:51,200 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:59:51,200 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:59:51,201 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:59:51,201 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 13:59:52,068 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 13:59:52,484 [WARNING]  * Debugger is active!
+2025-05-05 13:59:52,484 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:00:54,423 [INFO] 0 customers of type pos
+2025-05-05 14:00:54,423 [INFO] 0 customers of type reminders
+2025-05-05 14:00:54,423 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:00:54,423 [INFO] Sending message to JOELSON FELIPE DOS SANTOS FERREIRA of type reminders_newers
+2025-05-05 14:00:54,424 [INFO] 127.0.0.1 - - [05/May/2025 14:00:54] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 14:01:58,467 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:01:58,467 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:01:58,467 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:01:58,469 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:01:58,469 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:01:59,012 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:01:59,428 [WARNING]  * Debugger is active!
+2025-05-05 14:01:59,428 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:02:00,375 [INFO] 0 customers of type pos
+2025-05-05 14:02:00,376 [INFO] 0 customers of type reminders
+2025-05-05 14:02:00,376 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:02:00,376 [INFO] Sending message to JOELSON FELIPE DOS SANTOS FERREIRA of type reminders_newers
+2025-05-05 14:02:02,125 [INFO] 127.0.0.1 - - [05/May/2025 14:02:02] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 14:03:16,363 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:16,363 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:16,363 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:16,364 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:16,365 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:16,864 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:03:17,269 [WARNING]  * Debugger is active!
+2025-05-05 14:03:17,269 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:03:34,067 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:34,067 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:34,067 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:34,069 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:34,069 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:03:34,504 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:03:34,923 [WARNING]  * Debugger is active!
+2025-05-05 14:03:34,924 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:03:36,377 [INFO] 0 customers of type pos
+2025-05-05 14:03:36,377 [INFO] 0 customers of type reminders
+2025-05-05 14:03:36,377 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:03:36,377 [INFO] Sending message to JOELSON FELIPE DOS SANTOS FERREIRA of type reminders_newers
+2025-05-05 14:03:36,846 [INFO] 127.0.0.1 - - [05/May/2025 14:03:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 14:03:52,704 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:03:52,704 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:03:52,704 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:03:52,706 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:03:52,706 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:03:53,161 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:03:53,581 [WARNING]  * Debugger is active!
+2025-05-05 14:03:53,581 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:04:21,801 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:04:21,802 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:04:21,802 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:04:21,803 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:04:21,803 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:04:22,870 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:04:23,276 [WARNING]  * Debugger is active!
+2025-05-05 14:04:23,276 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:04:24,435 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:04:24,436 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:04:24,436 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:04:24,436 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:04:24,436 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:04:25,456 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:04:25,900 [WARNING]  * Debugger is active!
+2025-05-05 14:04:25,900 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:04:26,882 [INFO] 0 customers of type pos
+2025-05-05 14:04:26,882 [INFO] 0 customers of type reminders
+2025-05-05 14:04:26,882 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:04:26,882 [INFO] Sending message to JOELSON FELIPE DOS SANTOS FERREIRA of type reminders_newers
+2025-05-05 14:04:27,433 [INFO] 127.0.0.1 - - [05/May/2025 14:04:27] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 14:05:25,474 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:05:25,474 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:05:25,474 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:05:25,475 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:05:25,476 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:05:26,275 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:05:26,677 [WARNING]  * Debugger is active!
+2025-05-05 14:05:26,677 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:05:28,938 [INFO] 0 customers of type pos
+2025-05-05 14:05:28,938 [INFO] 0 customers of type reminders
+2025-05-05 14:05:28,938 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:05:28,939 [INFO] Sending message to JOELSON FELIPE DOS SANTOS FERREIRA of type reminders_newers
+2025-05-05 14:05:29,143 [INFO] 127.0.0.1 - - [05/May/2025 14:05:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-05-05 14:08:33,789 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:08:33,789 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:08:33,789 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:08:33,791 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:08:33,791 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:08:34,610 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:08:35,037 [WARNING]  * Debugger is active!
+2025-05-05 14:08:35,037 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:08:45,303 [INFO] 0 customers of type pos
+2025-05-05 14:08:45,304 [INFO] 0 customers of type reminders
+2025-05-05 14:08:45,304 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:08:45,304 [INFO] Sending message to JOELSON FELIPE DOS SANTOS FERREIRA of type reminders_newers
+2025-05-05 14:08:47,019 [INFO] Success in sending message to JOELSON FELIPE DOS SANTOS FERREIRA
+2025-05-05 14:08:47,019 [INFO] 1 customers of type atras
+2025-05-05 14:08:47,019 [INFO] Sending message to HELIDA BEATRIZ CARLOS DA SILVA of type atras
+2025-05-05 14:08:47,245 [INFO] Success in sending message to HELIDA BEATRIZ CARLOS DA SILVA
+2025-05-05 14:08:47,245 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:08:47,245 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 14:08:47,245 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 14:08:47,245 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 14:08:47,245 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 14:08:47,245 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:08:47,245 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 14:08:47,246 [INFO] 127.0.0.1 - - [05/May/2025 14:08:47] "POST / HTTP/1.1" 200 -
+2025-05-05 14:10:21,312 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:10:21,313 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:10:21,313 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:10:21,314 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:10:21,314 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/clouds.py', reloading
+2025-05-05 14:10:21,655 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:10:22,068 [WARNING]  * Debugger is active!
+2025-05-05 14:10:22,068 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:11:31,867 [INFO] 0 customers of type pos
+2025-05-05 14:11:31,867 [INFO] 0 customers of type reminders
+2025-05-05 14:11:31,867 [INFO] 0 customers of type reminders_newers
+2025-05-05 14:11:31,867 [INFO] 0 customers of type atras
+2025-05-05 14:11:31,867 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:11:31,867 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 14:11:31,867 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 14:11:31,868 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 14:11:31,868 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 14:11:31,868 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:11:31,868 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 14:11:31,868 [INFO] 127.0.0.1 - - [05/May/2025 14:11:31] "POST / HTTP/1.1" 200 -
+2025-05-05 14:12:46,323 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:12:46,324 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:12:46,324 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:12:46,325 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:12:46,325 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:12:46,662 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:12:47,074 [WARNING]  * Debugger is active!
+2025-05-05 14:12:47,074 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:13:00,455 [INFO] 0 customers of type pos
+2025-05-05 14:13:00,455 [INFO] 2 customers of type reminders
+2025-05-05 14:13:00,455 [INFO] Sending message to HELIDA BEATRIZ CARLOS DA SILVA of type reminders
+2025-05-05 14:13:00,699 [INFO] Success in sending message to HELIDA BEATRIZ CARLOS DA SILVA
+2025-05-05 14:13:00,699 [INFO] Sending message to ROBERTO DE GOIS of type reminders
+2025-05-05 14:13:00,890 [INFO] Success in sending message to ROBERTO DE GOIS
+2025-05-05 14:13:00,890 [INFO] 0 customers of type reminders_newers
+2025-05-05 14:13:00,890 [INFO] 0 customers of type atras
+2025-05-05 14:13:00,891 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'Invalid phone format: 8482003602', 'Type': 'Reminder', 'Line': '43'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:13:00,891 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 14:13:00,892 [INFO] 127.0.0.1 - - [05/May/2025 14:13:00] "POST / HTTP/1.1" 200 -
+2025-05-05 14:13:56,866 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:13:56,867 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:13:56,867 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:13:56,868 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:13:56,869 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:13:57,607 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:13:58,021 [WARNING]  * Debugger is active!
+2025-05-05 14:13:58,021 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:14:03,234 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:14:03,234 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:14:03,234 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:14:03,235 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:14:03,236 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:14:04,214 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:14:04,617 [WARNING]  * Debugger is active!
+2025-05-05 14:14:04,617 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:14:42,563 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:14:42,563 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:14:42,564 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:14:42,565 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:14:42,565 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-05 14:14:42,902 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:14:43,332 [WARNING]  * Debugger is active!
+2025-05-05 14:14:43,332 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:15:59,296 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:15:59,296 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:15:59,297 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:15:59,298 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:15:59,298 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:15:59,740 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:16:00,150 [WARNING]  * Debugger is active!
+2025-05-05 14:16:00,150 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:16:38,686 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:38,686 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:38,686 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:38,687 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:38,687 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:39,430 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:16:39,835 [WARNING]  * Debugger is active!
+2025-05-05 14:16:39,835 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:16:51,442 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:51,442 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:51,442 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:51,443 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:51,444 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:16:52,023 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:16:52,435 [WARNING]  * Debugger is active!
+2025-05-05 14:16:52,436 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:18:05,129 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:18:05,129 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:18:05,129 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:18:05,130 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:18:05,130 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-05 14:18:05,814 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:18:06,227 [WARNING]  * Debugger is active!
+2025-05-05 14:18:06,227 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:18:48,789 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:18:48,789 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:18:48,789 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:18:48,791 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:18:48,791 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-05 14:18:49,552 [INFO]  * Restarting with watchdog (inotify)
+2025-05-05 14:18:50,052 [WARNING]  * Debugger is active!
+2025-05-05 14:18:50,052 [INFO]  * Debugger PIN: 574-115-694
+2025-05-05 14:19:02,902 [INFO] 0 customers of type pos
+2025-05-05 14:19:02,903 [INFO] 2 customers of type reminders
+2025-05-05 14:19:02,903 [INFO] Sending message to HELIDA BEATRIZ CARLOS DA SILVA of type reminders
+2025-05-05 14:19:03,146 [INFO] Success in sending message to HELIDA BEATRIZ CARLOS DA SILVA
+2025-05-05 14:19:03,146 [INFO] Sending message to ROBERTO DE GOIS of type reminders
+2025-05-05 14:19:03,339 [INFO] Success in sending message to ROBERTO DE GOIS
+2025-05-05 14:19:03,339 [INFO] 1 customers of type reminders_newers
+2025-05-05 14:19:03,339 [INFO] Sending message to SAYONARA EMERECIANO MONTEIRO of type reminders_newers
+2025-05-05 14:19:05,419 [INFO] Success in sending message to SAYONARA EMERECIANO MONTEIRO
+2025-05-05 14:19:05,419 [INFO] 0 customers of type atras
+2025-05-05 14:19:05,419 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:19:05,419 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder', 'Line': '11'}
+2025-05-05 14:19:05,420 [INFO] {'Error': 'Invalid phone format: 8482003602', 'Type': 'Reminder', 'Line': '43'}
+2025-05-05 14:19:05,420 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-05 14:19:05,420 [INFO] {'Error': 'No sell code value', 'Type': 'Reminder Newer', 'Line': '11'}
+2025-05-05 14:19:05,420 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-05 14:19:05,420 [INFO] {'Error': 'No sell code value', 'Type': 'Pos', 'Line': '11'}
+2025-05-05 14:19:05,420 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-05 14:19:05,421 [INFO] 127.0.0.1 - - [05/May/2025 14:19:05] "POST / HTTP/1.1" 200 -
+2025-05-12 17:00:11,209 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-05-12 17:00:11,210 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-12 17:00:11,215 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:00:11,722 [WARNING]  * Debugger is active!
+2025-05-12 17:00:11,722 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:00:23,398 [INFO] 0 customers of type pos
+2025-05-12 17:00:23,398 [INFO] 0 customers of type reminders
+2025-05-12 17:00:23,398 [INFO] 0 customers of type reminders_newers
+2025-05-12 17:00:23,399 [INFO] 0 customers of type atras
+2025-05-12 17:00:23,399 [INFO] 0 customers of type reminders_today
+2025-05-12 17:00:23,399 [INFO] {'Error': "'CLIENTE'", 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:00:23,399 [INFO] {'Error': "'CLIENTE'", 'Type': 'Pos', 'Line': '81'}
+2025-05-12 17:00:23,399 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder', 'Line': '9'}
+2025-05-12 17:00:23,399 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder', 'Line': '32'}
+2025-05-12 17:00:23,399 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-12 17:00:23,399 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-05-12 17:00:23,399 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-05-12 17:00:23,399 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-12 17:00:23,400 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder Newer', 'Line': '71'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Pos', 'Line': '81'}
+2025-05-12 17:00:23,400 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Pos', 'Line': '82'}
+2025-05-12 17:00:23,401 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '28'}
+2025-05-12 17:00:23,401 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '30'}
+2025-05-12 17:00:23,401 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '52'}
+2025-05-12 17:00:23,401 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '65'}
+2025-05-12 17:00:23,401 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '80'}
+2025-05-12 17:00:23,401 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '81'}
+2025-05-12 17:00:23,401 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '82'}
+2025-05-12 17:00:23,403 [INFO] 127.0.0.1 - - [12/May/2025 17:00:23] "GET / HTTP/1.1" 200 -
+2025-05-12 17:01:17,791 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:01:17,792 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:01:17,792 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:01:17,794 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:01:17,794 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:01:18,500 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:01:18,946 [WARNING]  * Debugger is active!
+2025-05-12 17:01:18,946 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:01:23,505 [INFO] 0 customers of type pos
+2025-05-12 17:01:23,505 [INFO] 0 customers of type reminders
+2025-05-12 17:01:23,506 [INFO] 0 customers of type reminders_newers
+2025-05-12 17:01:23,506 [INFO] 0 customers of type atras
+2025-05-12 17:01:23,506 [INFO] 0 customers of type reminders_today
+2025-05-12 17:01:23,506 [INFO] {'Error': "'CLIENTE'", 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:01:23,506 [INFO] {'Error': "'CLIENTE'", 'Type': 'Pos', 'Line': '81'}
+2025-05-12 17:01:23,506 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder', 'Line': '9'}
+2025-05-12 17:01:23,506 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder', 'Line': '32'}
+2025-05-12 17:01:23,506 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-12 17:01:23,506 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-05-12 17:01:23,506 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-05-12 17:01:23,506 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-05-12 17:01:23,506 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-12 17:01:23,506 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder Newer', 'Line': '71'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Pos', 'Line': '65'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Pos', 'Line': '81'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Pos', 'Line': '82'}
+2025-05-12 17:01:23,507 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '28'}
+2025-05-12 17:01:23,507 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '30'}
+2025-05-12 17:01:23,507 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '52'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '65'}
+2025-05-12 17:01:23,507 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '80'}
+2025-05-12 17:01:23,508 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '81'}
+2025-05-12 17:01:23,508 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '82'}
+2025-05-12 17:01:23,509 [INFO] 127.0.0.1 - - [12/May/2025 17:01:23] "GET / HTTP/1.1" 200 -
+2025-05-12 17:02:32,924 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:02:32,924 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:02:32,925 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:02:32,926 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:02:32,926 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:02:33,771 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:02:34,229 [WARNING]  * Debugger is active!
+2025-05-12 17:02:34,230 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:03:42,524 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:03:42,524 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:03:42,525 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:03:42,526 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:03:42,526 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:03:43,652 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:03:44,223 [WARNING]  * Debugger is active!
+2025-05-12 17:03:44,224 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:03:45,904 [INFO] 0 customers of type pos
+2025-05-12 17:03:45,904 [INFO] 0 customers of type reminders
+2025-05-12 17:03:45,904 [INFO] 0 customers of type reminders_newers
+2025-05-12 17:03:45,904 [INFO] 0 customers of type atras
+2025-05-12 17:03:45,905 [INFO] 0 customers of type reminders_today
+2025-05-12 17:03:45,905 [INFO] {'Error': "'CLIENTE'", 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:03:45,905 [INFO] {'Error': "'CLIENTE'", 'Type': 'Pos', 'Line': '81'}
+2025-05-12 17:03:45,905 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder', 'Line': '9'}
+2025-05-12 17:03:45,905 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder', 'Line': '32'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-12 17:03:45,905 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder Newer', 'Line': '71'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-05-12 17:03:45,905 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Atras', 'Line': '65'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Atras', 'Line': '80'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Atras', 'Line': '81'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Atras', 'Line': '82'}
+2025-05-12 17:03:45,906 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '28'}
+2025-05-12 17:03:45,906 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '30'}
+2025-05-12 17:03:45,906 [INFO] {'Error': "'CLIENTE'", 'Type': 'Reminder_today', 'Line': '52'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '65'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '80'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '81'}
+2025-05-12 17:03:45,906 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '82'}
+2025-05-12 17:03:45,908 [INFO] 127.0.0.1 - - [12/May/2025 17:03:45] "GET / HTTP/1.1" 200 -
+2025-05-12 17:05:44,562 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-05-12 17:05:44,562 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-12 17:05:44,565 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:05:45,075 [WARNING]  * Debugger is active!
+2025-05-12 17:05:45,076 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:05:47,112 [INFO] 1 customers of type pos
+2025-05-12 17:05:47,112 [INFO] Sending message to REGYAN ALVES DOS SANTOS of type pos
+2025-05-12 17:05:49,814 [INFO] 127.0.0.1 - - [12/May/2025 17:05:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-12 17:07:57,199 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:07:57,199 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:07:57,200 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:07:57,201 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:07:57,201 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:07:57,647 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:07:58,120 [WARNING]  * Debugger is active!
+2025-05-12 17:07:58,120 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:08:00,870 [INFO] 1 customers of type pos
+2025-05-12 17:08:00,870 [INFO] Sending message to REGYAN ALVES DOS SANTOS of type pos
+2025-05-12 17:08:01,502 [INFO] 127.0.0.1 - - [12/May/2025 17:08:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-05-12 17:11:20,622 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:11:20,622 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:11:20,622 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:11:20,624 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:11:20,624 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:11:20,875 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:11:21,328 [WARNING]  * Debugger is active!
+2025-05-12 17:11:21,328 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:11:31,059 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:11:31,060 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:11:31,060 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:11:31,061 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:11:31,062 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:11:31,559 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:11:31,998 [WARNING]  * Debugger is active!
+2025-05-12 17:11:31,998 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:11:33,679 [INFO] 1 customers of type pos
+2025-05-12 17:11:33,679 [INFO] Sending message to REGYAN ALVES DOS SANTOS of type pos
+2025-05-12 17:11:40,802 [INFO] Success in sending message to REGYAN ALVES DOS SANTOS
+2025-05-12 17:11:40,802 [INFO] 2 customers of type reminders
+2025-05-12 17:11:40,802 [INFO] Sending message to HUDSON CAMPELO DOS SANTOS of type reminders
+2025-05-12 17:11:41,025 [INFO] Success in sending message to HUDSON CAMPELO DOS SANTOS
+2025-05-12 17:11:41,025 [INFO] Sending message to TARCISIO FERREIRA GUEDES of type reminders
+2025-05-12 17:11:41,206 [INFO] Success in sending message to TARCISIO FERREIRA GUEDES
+2025-05-12 17:11:41,207 [INFO] 1 customers of type reminders_newers
+2025-05-12 17:11:41,207 [INFO] Sending message to LUCAS BEZERRA DANTAS DA SILVA of type reminders_newers
+2025-05-12 17:11:43,814 [INFO] Success in sending message to LUCAS BEZERRA DANTAS DA SILVA
+2025-05-12 17:11:43,814 [INFO] 0 customers of type atras
+2025-05-12 17:11:43,814 [INFO] 3 customers of type reminders_today
+2025-05-12 17:11:43,814 [INFO] Sending message to ANDERSON RAIMUNDO BEZERRA of type reminders_today
+2025-05-12 17:11:44,006 [INFO] Success in sending message to ANDERSON RAIMUNDO BEZERRA
+2025-05-12 17:11:44,006 [INFO] Sending message to EDJUNIOR MENDES PESSOA FERREIRA of type reminders_today
+2025-05-12 17:11:44,198 [INFO] Success in sending message to EDJUNIOR MENDES PESSOA FERREIRA
+2025-05-12 17:11:44,198 [INFO] Sending message to DIMAS PAULINO DE MORAIS SILVA of type reminders_today
+2025-05-12 17:11:44,383 [INFO] Success in sending message to DIMAS PAULINO DE MORAIS SILVA
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Atras', 'Line': '65'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Atras', 'Line': '80'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Atras', 'Line': '81'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Atras', 'Line': '82'}
+2025-05-12 17:11:44,383 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '65'}
+2025-05-12 17:11:44,384 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '80'}
+2025-05-12 17:11:44,384 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '81'}
+2025-05-12 17:11:44,384 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '82'}
+2025-05-12 17:11:44,385 [INFO] 127.0.0.1 - - [12/May/2025 17:11:44] "GET / HTTP/1.1" 200 -
+2025-05-12 17:13:43,882 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:13:43,882 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:13:43,882 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:13:43,884 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:13:43,884 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/send_messages.py', reloading
+2025-05-12 17:13:44,578 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:13:45,019 [WARNING]  * Debugger is active!
+2025-05-12 17:13:45,020 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:18:05,240 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:05,240 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:05,241 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:05,242 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:05,242 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:06,078 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:18:06,563 [WARNING]  * Debugger is active!
+2025-05-12 17:18:06,563 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:18:42,762 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:42,763 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:42,763 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:42,764 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:42,764 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:43,848 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:18:44,305 [WARNING]  * Debugger is active!
+2025-05-12 17:18:44,305 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:18:49,727 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:49,727 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:49,728 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:49,729 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:49,729 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:50,548 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:18:51,044 [WARNING]  * Debugger is active!
+2025-05-12 17:18:51,044 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:18:58,243 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:58,244 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:58,244 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:58,245 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:58,245 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:18:59,314 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:18:59,800 [WARNING]  * Debugger is active!
+2025-05-12 17:18:59,800 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:19:22,263 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:19:22,264 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:19:22,264 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:19:22,265 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:19:22,265 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_utils.py', reloading
+2025-05-12 17:19:23,089 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:19:23,560 [WARNING]  * Debugger is active!
+2025-05-12 17:19:23,560 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:19:55,522 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-05-12 17:19:55,522 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-12 17:19:55,525 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:19:56,028 [WARNING]  * Debugger is active!
+2025-05-12 17:19:56,028 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:19:59,726 [INFO] 1 customers of type pos
+2025-05-12 17:19:59,726 [INFO] Sending message to REGYAN ALVES DOS SANTOS of type pos
+2025-05-12 17:20:03,327 [INFO] Success in sending message to REGYAN ALVES DOS SANTOS
+2025-05-12 17:20:03,328 [INFO] 2 customers of type reminders
+2025-05-12 17:20:03,328 [INFO] Sending message to HUDSON CAMPELO DOS SANTOS of type reminders
+2025-05-12 17:20:03,526 [INFO] Success in sending message to HUDSON CAMPELO DOS SANTOS
+2025-05-12 17:20:03,526 [INFO] Sending message to TARCISIO FERREIRA GUEDES of type reminders
+2025-05-12 17:20:03,714 [INFO] Success in sending message to TARCISIO FERREIRA GUEDES
+2025-05-12 17:20:03,714 [INFO] 1 customers of type reminders_newers
+2025-05-12 17:20:03,714 [INFO] Sending message to LUCAS BEZERRA DANTAS DA SILVA of type reminders_newers
+2025-05-12 17:20:06,398 [INFO] Success in sending message to LUCAS BEZERRA DANTAS DA SILVA
+2025-05-12 17:20:06,398 [INFO] 0 customers of type atras
+2025-05-12 17:20:06,398 [INFO] 2 customers of type reminders_today
+2025-05-12 17:20:06,398 [INFO] Sending message to ANDERSON RAIMUNDO BEZERRA of type reminders_today
+2025-05-12 17:20:06,599 [INFO] Success in sending message to ANDERSON RAIMUNDO BEZERRA
+2025-05-12 17:20:06,600 [INFO] Sending message to DIMAS PAULINO DE MORAIS SILVA of type reminders_today
+2025-05-12 17:20:06,786 [INFO] Success in sending message to DIMAS PAULINO DE MORAIS SILVA
+2025-05-12 17:20:06,786 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:20:06,786 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder', 'Line': '65'}
+2025-05-12 17:20:06,786 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder', 'Line': '80'}
+2025-05-12 17:20:06,786 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder', 'Line': '81'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder', 'Line': '82'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '65'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '80'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '81'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder Newer', 'Line': '82'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Atras', 'Line': '65'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Atras', 'Line': '80'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Atras', 'Line': '81'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Atras', 'Line': '82'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '65'}
+2025-05-12 17:20:06,787 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '80'}
+2025-05-12 17:20:06,788 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '81'}
+2025-05-12 17:20:06,788 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder_today', 'Line': '82'}
+2025-05-12 17:20:06,789 [INFO] 127.0.0.1 - - [12/May/2025 17:20:06] "GET / HTTP/1.1" 200 -
+2025-05-12 17:25:28,550 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:28,550 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:28,551 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:28,552 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:28,552 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:29,542 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:25:30,000 [WARNING]  * Debugger is active!
+2025-05-12 17:25:30,000 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:25:39,068 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:39,068 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:39,068 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:39,070 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:39,070 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/customers_seperate.py', reloading
+2025-05-12 17:25:39,266 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:25:39,724 [WARNING]  * Debugger is active!
+2025-05-12 17:25:39,724 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:25:49,868 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:25:49,869 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:25:49,869 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:25:49,870 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:25:49,871 [INFO]  * Detected change in '/home/carburauto/codes/motocred/lembretes/src/main.py', reloading
+2025-05-12 17:25:50,929 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:25:51,384 [WARNING]  * Debugger is active!
+2025-05-12 17:25:51,384 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:25:58,390 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.90:8080
+2025-05-12 17:25:58,390 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-12 17:25:58,394 [INFO]  * Restarting with watchdog (inotify)
+2025-05-12 17:25:58,888 [WARNING]  * Debugger is active!
+2025-05-12 17:25:58,889 [INFO]  * Debugger PIN: 105-493-578
+2025-05-12 17:26:03,051 [INFO] 1 customers of type pos
+2025-05-12 17:26:03,051 [INFO] Sending message to REGYAN ALVES DOS SANTOS of type pos
+2025-05-12 17:26:03,051 [INFO] Success in sending message to REGYAN ALVES DOS SANTOS
+2025-05-12 17:26:03,052 [INFO] 2 customers of type reminders
+2025-05-12 17:26:03,052 [INFO] Sending message to HUDSON CAMPELO DOS SANTOS of type reminders
+2025-05-12 17:26:03,052 [INFO] Success in sending message to HUDSON CAMPELO DOS SANTOS
+2025-05-12 17:26:03,052 [INFO] Sending message to TARCISIO FERREIRA GUEDES of type reminders
+2025-05-12 17:26:03,052 [INFO] Success in sending message to TARCISIO FERREIRA GUEDES
+2025-05-12 17:26:03,052 [INFO] 1 customers of type reminders_newers
+2025-05-12 17:26:03,053 [INFO] Sending message to LUCAS BEZERRA DANTAS DA SILVA of type reminders_newers
+2025-05-12 17:26:03,053 [INFO] Success in sending message to LUCAS BEZERRA DANTAS DA SILVA
+2025-05-12 17:26:03,053 [INFO] 0 customers of type atras
+2025-05-12 17:26:03,053 [INFO] 2 customers of type reminders_today
+2025-05-12 17:26:03,054 [INFO] Sending message to ANDERSON RAIMUNDO BEZERRA of type reminders_today
+2025-05-12 17:26:03,054 [INFO] Success in sending message to ANDERSON RAIMUNDO BEZERRA
+2025-05-12 17:26:03,054 [INFO] Sending message to DIMAS PAULINO DE MORAIS SILVA of type reminders_today
+2025-05-12 17:26:03,054 [INFO] Success in sending message to DIMAS PAULINO DE MORAIS SILVA
+2025-05-12 17:26:03,056 [INFO] {'Error': 'Invalid phone type: <NA>', 'Type': 'Pos', 'Line': '80'}
+2025-05-12 17:26:03,056 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '65'}
+2025-05-12 17:26:03,056 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '80'}
+2025-05-12 17:26:03,062 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '81'}
+2025-05-12 17:26:03,063 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '82'}
+2025-05-12 17:26:03,063 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '65'}
+2025-05-12 17:26:03,063 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '80'}
+2025-05-12 17:26:03,063 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '81'}
+2025-05-12 17:26:03,063 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '82'}
+2025-05-12 17:26:03,063 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '65'}
+2025-05-12 17:26:03,064 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '80'}
+2025-05-12 17:26:03,064 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '81'}
+2025-05-12 17:26:03,064 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '82'}
+2025-05-12 17:26:03,064 [INFO] {'Error': 'Sell code 52257332 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '65'}
+2025-05-12 17:26:03,064 [INFO] {'Error': 'Sell code 54603193 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '80'}
+2025-05-12 17:26:03,064 [INFO] {'Error': 'Sell code 54598532 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '81'}
+2025-05-12 17:26:03,065 [INFO] {'Error': 'Sell code 54755093 not found in Parcelas', 'Type': 'Reminder/Atras', 'Line': '82'}
+2025-05-12 17:26:03,067 [INFO] 127.0.0.1 - - [12/May/2025 17:26:03] "GET / HTTP/1.1" 200 -

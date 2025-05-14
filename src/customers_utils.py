@@ -67,6 +67,13 @@ def get_next_venc_by_sell_code(df_parcs: pd.DataFrame, sell_code: str) -> dt.dat
     if df_parcs_sell_code.empty:
         raise ValueError(f"Sell code {sell_code} not found in Parcelas")
 
+    df_parcs_atras = df_parcs_sell_code[
+        df_parcs_sell_code["VERIF"].astype(str).str.upper().str.strip() == "ATRASADO"
+    ].copy()
+
+    if not df_parcs_atras.empty:
+        return None
+
     df_parcs_no_prazo = df_parcs_sell_code[
         df_parcs_sell_code["VERIF"].astype(str).str.upper().str.strip() == "NO PRAZO"
     ].copy()
@@ -93,21 +100,21 @@ def get_atras_venc_by_sell_code(df_parcs: pd.DataFrame, sell_code: str) -> dt.da
     if df_parcs_sell_code.empty:
         raise ValueError(f"Sell code {sell_code} not found in Parcelas")
 
-    df_parcs_no_prazo = df_parcs_sell_code[
+    df_parcs_atras = df_parcs_sell_code[
         df_parcs_sell_code["VERIF"].astype(str).str.upper().str.strip() == "ATRASADO"
     ].copy()
 
-    if df_parcs_no_prazo.empty:
+    if df_parcs_atras.empty:
         return None
 
-    df_parcs_no_prazo["DATA_PARC"] = pd.to_datetime(
-        df_parcs_no_prazo["DATA_PARC"].astype(str).str.strip(),
+    df_parcs_atras["DATA_PARC"] = pd.to_datetime(
+        df_parcs_atras["DATA_PARC"].astype(str).str.strip(),
         format="%d/%m/%y",
         dayfirst=True,
         errors="coerce",
     )
 
-    dates = df_parcs_no_prazo["DATA_PARC"].dropna()
+    dates = df_parcs_atras["DATA_PARC"].dropna()
     return dates.min().date() if not dates.empty else None
 
 def format_phone(phone: str | None | float) -> str:
@@ -119,9 +126,9 @@ def format_phone(phone: str | None | float) -> str:
         raise ValueError("Invalid number: less than 8 digits")
 
     subscriber = digits[-8:]
-    dd = digits[-10:-8] if len(digits) >= 10 else '00'
+    ddd = digits[:2]
 
-    return f'55{dd}9{subscriber}'
+    return f'55{ddd}9{subscriber}'
 
 def create_customer_data(
         sell_code: str,
