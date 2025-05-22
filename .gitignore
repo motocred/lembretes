@@ -2,3 +2,4 @@ API*
 static/
 tests/
 src/service_account.json
+src/.env
