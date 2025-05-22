@@ -1,9 +1,11 @@
 # main.py
 import os
 import re
+import json
 import functions_framework
 import logging
 from google.auth import default
+from google.oauth2 import service_account
 from dotenv import load_dotenv
 from flask import Request, Response, jsonify
 import pandas as pd
@@ -20,6 +22,8 @@ API_URL = os.getenv("API_URL")
 CLIENT_TOKEN = os.getenv("CLIENT_TOKEN")
 TEST_PHONE = os.getenv("TEST_PHONE")
 
+SERVICE_ACCOUNT_FILE_PATH = os.getenv("SERVICE_ACCOUNT_FILE_PATH")
+
 PARCS_COLS = ["COD_VENDA", "PARC", "DATA_PARC", "VLR_PARC", "VLR_PGTO", "VERIF", "CARTÃO"]
 
 logging.basicConfig(
@@ -34,17 +38,16 @@ def main(request: Request) -> tuple[Response, int]:
         if not SHEET_URL:
             raise ValueError("Sheet url could not be loaded")
 
-        credentials, _ = default()
+        scopes = ['https://www.googleapis.com/auth/drive']
+        credentials = None
+        if SERVICE_ACCOUNT_FILE_PATH:
+            credentials = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE_PATH, scopes=scopes)
+        else:
+            credentials, _ = default()
+
         wallet_df = read_sheet(credentials, SHEET_URL, "CARTEIRA")
         parcs_df = read_sheet(credentials, SHEET_URL, "PARCELAS")
         info_op_df = read_sheet(credentials, SHEET_URL, "INFO OPERACIONAL")
-
-        # """
-        # For local test:
-        # wallet_df = pd.read_csv('../static/Carteira Motocred atualizada - CARTEIRA.csv')
-        # parcs_df = pd.read_csv('../static/Carteira Motocred atualizada - PARCELAS.csv')
-        # info_op_df = pd.read_csv('../static/Carteira Motocred atualizada - INFO OPERACIONAL.csv')
-        # """
 
         # TELEFONE column from info_op might come as float
         info_op_df['TELEFONE'] = info_op_df['TELEFONE'].apply(
@@ -67,7 +70,7 @@ def main(request: Request) -> tuple[Response, int]:
             "atras": send_atras
         }
 
-        customers_erro = list()
+        customers_erro = set()
         customers_pos = separete_customers_pos_sell(DFS, customers_erro)
         customers_reminders = seperate_customers_reminders(DFS, customers_erro)
         customers_reminders_newer = seperate_customers_reminders_newers(DFS, customers_erro)
@@ -88,7 +91,6 @@ def main(request: Request) -> tuple[Response, int]:
             for customer in group:
                 customer_data = {
                     "phone": customer["phone"],
-                    # "phone": TEST_PHONE
                 }
                 message_data = choose_message(message_type, customer["sex"]) # pyright: ignore
 
@@ -96,7 +98,9 @@ def main(request: Request) -> tuple[Response, int]:
                 SENDERS[message_type](API_URL, CLIENT_TOKEN, customer_data, message_data)
                 logging.info(f"Success in sending message to {customer['name']}")
 
-        [logging.info(f"{item}") for item in customers_erro]
+        for item in customers_erro:
+            data = json.loads(item)
+            logging.info(f"{data}")
 
         return jsonify({"message": "Success"}), 200
     except Exception as e:

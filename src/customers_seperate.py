@@ -1,4 +1,5 @@
 # customers_seperate.py
+import json
 import datetime as dt
 import pandas as pd
 
@@ -21,7 +22,7 @@ def format_df(df_raw: pd.DataFrame, expected_cols: list[str]) -> pd.DataFrame:
 
     raise ValueError("Expected column names not found in the sheet.")
 
-def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
+def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_data: set[str]) -> list[dict[str, str]]:
     customer_list = list()
     df_wallet = dfs["wallet"]
     df_parcs = dfs["parcs"]
@@ -54,11 +55,11 @@ def seperate_customers_reminders_newers(dfs: dict[str, pd.DataFrame], errors_dat
                 "Type": "Reminder/Atras",
                 "Line": str(line)
             }
-            errors_data.append(error_data)
+            errors_data.add(json.dumps(error_data, sort_keys=True))
 
     return customer_list
 
-def seperate_customers_reminders_today(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
+def seperate_customers_reminders_today(dfs: dict[str, pd.DataFrame], errors_data: set[str]) -> list[dict[str, str]]:
     customer_list = list()
     df_wallet = dfs["wallet"]
     df_parcs = dfs["parcs"]
@@ -91,12 +92,12 @@ def seperate_customers_reminders_today(dfs: dict[str, pd.DataFrame], errors_data
                 "Type": "Reminder/Atras",
                 "Line": str(line)
             }
-            errors_data.append(error_data)
+            errors_data.add(json.dumps(error_data, sort_keys=True))
 
     return customer_list
 
 
-def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list[dict[str, str]]) -> list[dict[str, str]]:
+def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: set[str]) -> list[dict[str, str]]:
     customer_list = list()
     df_wallet = dfs["wallet"]
     df_parcs = dfs["parcs"]
@@ -129,11 +130,11 @@ def seperate_customers_reminders(dfs: dict[str, pd.DataFrame], errors_data: list
                 "Type": "Reminder/Atras",
                 "Line": str(line)
             }
-            errors_data.append(error_data)
+            errors_data.add(json.dumps(error_data, sort_keys=True))
 
     return customer_list
 
-def seperate_customers_atras(dfs: dict[str, pd.DataFrame], errors_list: list[dict[str, str]]) -> list[dict[str, str]]:
+def seperate_customers_atras(dfs: dict[str, pd.DataFrame], errors_list: set[str]) -> list[dict[str, str]]:
     customers_list = list()
     df_wallet = dfs["wallet"]
     df_parcs = dfs["parcs"]
@@ -162,11 +163,11 @@ def seperate_customers_atras(dfs: dict[str, pd.DataFrame], errors_list: list[dic
                 "Type": "Reminder/Atras",
                 "Line": str(line)
             }
-            errors_list.append(error_data)
+            errors_list.add(json.dumps(error_data, sort_keys=True))
 
     return customers_list
 
-def separete_customers_pos_sell(dfs: dict[str, pd.DataFrame], errors_list: list[dict[str, str]]) -> list[dict[str, str]]:
+def separete_customers_pos_sell(dfs: dict[str, pd.DataFrame], errors_list: set[str]) -> list[dict[str, str]]:
     customers_list = list()
     df_wallet = dfs["wallet"]
     df_info_op = dfs["info_op"]
@@ -193,6 +194,6 @@ def separete_customers_pos_sell(dfs: dict[str, pd.DataFrame], errors_list: list[
                 "Type": "Pos",
                 "Line": str(line)
             }
-            errors_list.append(error_data)
+            errors_list.add(json.dumps(error_data, sort_keys=True))
 
     return customers_list
